@@ -1,0 +1,23 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\UELibSampleRate\Definitions.UELibSampleRate.h
+D:/ub/Engine/Source/ThirdParty/libSampleRate/Private/LibSampleRateModule.cpp
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Public\LibSampleRateModule.h
+D:/ub/Engine/Source/ThirdParty/libSampleRate/Private/samplerate.cpp
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Public\samplerate.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\src_config.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\config.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\common.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:/ub/Engine/Source/ThirdParty/libSampleRate/Private/src_linear.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\src_config.h
+D:/ub/Engine/Source/ThirdParty/libSampleRate/Private/src_sinc.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\src_config.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\fastest_coeffs.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\mid_qual_coeffs.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\high_qual_coeffs.h
+D:/ub/Engine/Source/ThirdParty/libSampleRate/Private/src_zoh.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\ub\Engine\Source\ThirdParty\libSampleRate\Private\src_config.h

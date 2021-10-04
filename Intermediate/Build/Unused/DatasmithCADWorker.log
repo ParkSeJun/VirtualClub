@@ -1,0 +1,66 @@
+﻿  Creating makefile for DatasmithCADWorker (no existing makefile)
+  Parsing headers for DatasmithCADWorker
+    Running UnrealHeaderTool DatasmithCADWorker "D:\ub\Engine\Intermediate\Build\Win64\DatasmithCADWorker\Development\DatasmithCADWorker.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ub\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for DatasmithCADWorker in 2.3284099 seconds
+  Building DatasmithCADWorker...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 56 actions with 8 processes...
+    [1/56] Default.rc2
+    [2/56] BuildSettings.cpp
+    [3/56] Module.TraceLog.cpp
+    [4/56] SharedPCH.Core.ShadowErrors.cpp
+    [5/56] NetCommonModule.cpp
+    [6/56] PCH.Core.cpp
+    [7/56] SharedPCH.CoreUObject.ShadowErrors.cpp
+    [8/56] Module.CADTools.cpp
+    [9/56] Module.CADInterfaces.cpp
+    [10/56] Module.DatasmithDispatcher.cpp
+    [11/56] Module.Sockets.cpp
+    [12/56] PCH.CoreUObject.cpp
+    [13/56] MessagingCommonModule.cpp
+    [14/56] RawMesh.cpp
+    [15/56] Module.DatasmithCore.gen.cpp
+    [16/56] Module.Projects.cpp
+    [17/56] Module.XmlParser.cpp
+    [18/56] Module.Messaging.cpp
+    [19/56] Module.DatasmithCADWorker.cpp
+    [20/56] Module.MeshDescription.gen.cpp
+    [21/56] Module.DirectLink.gen.cpp
+    [22/56] Module.DirectLink.cpp
+    [23/56] Module.StaticMeshDescription.cpp
+    [24/56] Module.MeshDescription.cpp
+    [25/56] Module.Json.cpp
+    [26/56] Module.Core.2_of_15.cpp
+    [27/56] Module.ApplicationCore.cpp
+    [28/56] Module.Core.8_of_15.cpp
+    [29/56] Module.CoreUObject.1_of_9.cpp
+    [30/56] Module.CoreUObject.3_of_9.cpp
+    [31/56] Module.DatasmithCore.cpp
+    [32/56] Module.Core.6_of_15.cpp
+    [33/56] Module.Core.5_of_15.cpp
+    [34/56] Module.Core.15_of_15.cpp
+    [35/56] Module.CoreUObject.8_of_9.cpp
+    [36/56] Module.Core.11_of_15.cpp
+    [37/56] Module.Core.10_of_15.cpp
+    [38/56] Module.Core.9_of_15.cpp
+    [39/56] Module.CoreUObject.9_of_9.cpp
+    [40/56] Module.Core.12_of_15.cpp
+    [41/56] Module.CoreUObject.gen.cpp
+    [42/56] Module.Core.1_of_15.cpp
+    [43/56] Module.Core.3_of_15.cpp
+    [44/56] Module.CoreUObject.2_of_9.cpp
+    [45/56] Module.Core.4_of_15.cpp
+    [46/56] Module.Core.13_of_15.cpp
+    [47/56] Module.MeshUtilitiesCommon.cpp
+    [48/56] Module.StaticMeshDescription.gen.cpp
+    [49/56] Module.CoreUObject.4_of_9.cpp
+    [50/56] Module.CoreUObject.6_of_9.cpp
+    [51/56] Module.Core.7_of_15.cpp
+    [52/56] Module.CoreUObject.5_of_9.cpp
+    [53/56] Module.Core.14_of_15.cpp
+    [54/56] Module.CoreUObject.7_of_9.cpp
+    [55/56] DatasmithCADWorker.exe
+    [56/56] DatasmithCADWorker.target
+  Total time in Parallel executor: 136.53 seconds
+  Total execution time: 1441.59 seconds

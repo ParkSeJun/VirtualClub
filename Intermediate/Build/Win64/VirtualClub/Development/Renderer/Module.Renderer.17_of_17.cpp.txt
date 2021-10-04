@@ -1,0 +1,3 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Renderer\Definitions.Renderer.h
+D:/ub/Engine/Source/Runtime/Renderer/Private/WideCustomResolveShaders.cpp
+D:\ub\Engine\Source\Runtime\Renderer\Private\WideCustomResolveShaders.h

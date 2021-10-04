@@ -1,0 +1,13 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\MagicLeapPrivileges\Definitions.MagicLeapPrivileges.h
+D:/ub/Engine/Plugins/Lumin/MagicLeap/Source/MagicLeapPrivileges/Private/MagicLeapPrivilegesFunctionLibrary.cpp
+D:\ub\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\MagicLeapPrivilegesFunctionLibrary.h
+D:\ub\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\MagicLeapPrivilegeTypes.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\MagicLeapPrivileges\MagicLeapPrivilegeTypes.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\MagicLeapPrivileges\MagicLeapPrivilegesFunctionLibrary.generated.h
+D:\ub\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Private\MagicLeapPrivilegesModule.h
+D:\ub\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\IMagicLeapPrivilegesModule.h
+D:\ub\Engine\Source\Runtime\Core\Public\Lumin/CAPIShims/LuminAPI.h
+D:\ub\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\MagicLeapPrivilegeUtils.h
+D:\ub\Engine\Plugins\Lumin\MLSDK\Source\MLSDK\Public\Lumin/CAPIShims/LuminAPIPrivileges.h
+D:/ub/Engine/Plugins/Lumin/MagicLeap/Source/MagicLeapPrivileges/Private/MagicLeapPrivilegesModule.cpp
+D:/ub/Engine/Plugins/Lumin/MagicLeap/Source/MagicLeapPrivileges/Private/MagicLeapPrivilegeUtils.cpp

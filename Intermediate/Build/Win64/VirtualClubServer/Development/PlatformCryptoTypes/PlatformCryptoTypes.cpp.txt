@@ -1,0 +1,4 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\PlatformCryptoTypes\Definitions.PlatformCryptoTypes.h
+D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Source\PlatformCryptoTypes\Public\PlatformCryptoTypes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+D:\ub\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h

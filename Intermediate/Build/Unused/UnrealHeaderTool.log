@@ -1,0 +1,67 @@
+﻿  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Building UnrealHeaderTool...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 48 actions with 8 processes...
+    [1/48] Default.rc2
+    [2/48] BuildSettings.cpp
+    [3/48] UnrealHeaderTool-BuildSettings.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\BuildSettings\UnrealHeaderTool-BuildSettings.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\BuildSettings\UnrealHeaderTool-BuildSettings.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [4/48] UnrealHeaderTool-BuildSettings.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\BuildSettings\UnrealHeaderTool-BuildSettings.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\BuildSettings\UnrealHeaderTool-BuildSettings.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [5/48] Module.TraceLog.cpp
+    [6/48] UnrealHeaderTool-TraceLog.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\TraceLog\UnrealHeaderTool-TraceLog.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\TraceLog\UnrealHeaderTool-TraceLog.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [7/48] UnrealHeaderTool-TraceLog.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\TraceLog\UnrealHeaderTool-TraceLog.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\TraceLog\UnrealHeaderTool-TraceLog.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [8/48] SharedPCH.Core.ShadowErrors.cpp
+    [9/48] PCH.Core.cpp
+    [10/48] PCH.CoreUObject.cpp
+    [11/48] Module.Projects.cpp
+    [12/48] Module.Json.cpp
+    [13/48] Module.Core.4_of_15.cpp
+    [14/48] Module.Core.7_of_15.cpp
+    [15/48] Module.Core.8_of_15.cpp
+    [16/48] Module.Core.5_of_15.cpp
+    [17/48] Module.Core.9_of_15.cpp
+    [18/48] Module.Core.6_of_15.cpp
+    [19/48] Module.Core.3_of_15.cpp
+    [20/48] Module.Core.11_of_15.cpp
+    [21/48] Module.Core.12_of_15.cpp
+    [22/48] Module.Core.2_of_15.cpp
+    [23/48] Module.UnrealHeaderTool.cpp
+    [24/48] Module.Core.15_of_15.cpp
+    [25/48] Module.Core.1_of_15.cpp
+    [26/48] Module.Core.13_of_15.cpp
+    [27/48] Module.CoreUObject.7_of_9.cpp
+    [28/48] Module.Core.14_of_15.cpp
+    [29/48] Module.CoreUObject.6_of_9.cpp
+    [30/48] Module.CoreUObject.2_of_9.cpp
+    [31/48] UnrealHeaderTool.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnrealHeaderTool.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnrealHeaderTool.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [32/48] UnrealHeaderTool-Json.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Json\UnrealHeaderTool-Json.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Json\UnrealHeaderTool-Json.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [33/48] Module.CoreUObject.9_of_9.cpp
+    [34/48] UnrealHeaderTool-Projects.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Projects\UnrealHeaderTool-Projects.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Projects\UnrealHeaderTool-Projects.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [35/48] Module.CoreUObject.4_of_9.cpp
+    [36/48] Module.CoreUObject.3_of_9.cpp
+    [37/48] Module.Core.10_of_15.cpp
+    [38/48] UnrealHeaderTool-Core.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Core\UnrealHeaderTool-Core.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Core\UnrealHeaderTool-Core.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [39/48] Module.CoreUObject.8_of_9.cpp
+    [40/48] UnrealHeaderTool-Projects.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Projects\UnrealHeaderTool-Projects.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Projects\UnrealHeaderTool-Projects.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [41/48] UnrealHeaderTool-Json.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Json\UnrealHeaderTool-Json.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Json\UnrealHeaderTool-Json.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [42/48] UnrealHeaderTool-Core.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Core\UnrealHeaderTool-Core.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\Core\UnrealHeaderTool-Core.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [43/48] Module.CoreUObject.5_of_9.cpp
+    [44/48] Module.CoreUObject.1_of_9.cpp
+    [45/48] UnrealHeaderTool-CoreUObject.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\CoreUObject\UnrealHeaderTool-CoreUObject.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\CoreUObject\UnrealHeaderTool-CoreUObject.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [46/48] UnrealHeaderTool-CoreUObject.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\CoreUObject\UnrealHeaderTool-CoreUObject.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealHeaderTool\Development\CoreUObject\UnrealHeaderTool-CoreUObject.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [47/48] UnrealHeaderTool.exe
+    [48/48] UnrealHeaderTool.target
+  Total time in Parallel executor: 106.02 seconds
+  Total execution time: 1868.64 seconds

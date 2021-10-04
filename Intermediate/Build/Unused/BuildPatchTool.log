@@ -1,0 +1,103 @@
+﻿  Creating makefile for BuildPatchTool (no existing makefile)
+  Parsing headers for BuildPatchTool
+    Running UnrealHeaderTool BuildPatchTool "D:\ub\Engine\Intermediate\Build\Win64\BuildPatchTool\Development\BuildPatchTool.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ub\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for BuildPatchTool in 3.3726217 seconds
+  Building BuildPatchTool...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 92 actions with 8 processes...
+    [1/92] BuildSettings.cpp
+    [2/92] Default.rc2
+    [3/92] PCH.ImageWrapper.cpp
+    [4/92] Module.TraceLog.cpp
+    [5/92] SharedPCH.Core.ShadowErrors.cpp
+    [6/92] PCH.Core.cpp
+    [7/92] SharedPCH.CoreUObject.ShadowErrors.cpp
+    [8/92] StreamingNetworkPlatformFile.cpp
+    [9/92] Module.ImageWrapper.gen.cpp
+    [10/92] Module.NetworkFile.cpp
+    [11/92] PCH.CoreUObject.cpp
+    [12/92] Module.JsonUtilities.gen.cpp
+    [13/92] Module.ImageWrapper.cpp
+    [14/92] Module.ApplicationCore.cpp
+    [15/92] Module.HTTP.cpp
+    [16/92] UnrealEdMessagesModule.cpp
+    [17/92] Module.SlateCore.gen.cpp
+    [18/92] Module.AutomationController.gen.cpp
+    [19/92] SharedPCH.Slate.ShadowErrors.cpp
+    [20/92] Module.SlateCore.3_of_3.cpp
+    [21/92] Module.Messaging.cpp
+    [22/92] Module.AutomationController.cpp
+    [23/92] Module.ScreenShotComparisonTools.gen.cpp
+    [24/92] Module.SlateCore.2_of_3.cpp
+    [25/92] UnrealEdMessages.init.gen.cpp
+    [26/92] Module.ScreenShotComparisonTools.cpp
+    [27/92] AutomationMessagesModule.cpp
+    [28/92] Module.EditorStyle.cpp
+    [29/92] Module.AssetRegistry.cpp
+    [30/92] Module.SlateCore.1_of_3.cpp
+    [31/92] Module.MessageLog.cpp
+    [32/92] Module.AutomationWorker.cpp
+    [33/92] FileServerMessages.gen.cpp
+    [34/92] Module.AnalyticsET.cpp
+    [35/92] Module.BuildPatchServices.1_of_3.cpp
+    [36/92] Module.BuildPatchServices.gen.cpp
+    [37/92] RSA.cpp
+    [38/92] Module.InputCore.cpp
+    [39/92] Module.BuildPatchServices.2_of_3.cpp
+    [40/92] Module.DerivedDataCache.cpp
+    [41/92] IPlatformFileSandboxWrapper.cpp
+    [42/92] Module.PakFile.cpp
+    [43/92] Module.Networking.cpp
+    [44/92] Module.InputCore.gen.cpp
+    [45/92] Module.BuildPatchServices.3_of_3.cpp
+    [46/92] AutomationMessages.init.gen.cpp
+    [47/92] Module.Projects.cpp
+    [48/92] Analytics.cpp
+    [49/92] Module.Json.cpp
+    [50/92] Module.Slate.1_of_5.cpp
+    [51/92] Module.JsonUtilities.cpp
+    [52/92] Module.Slate.2_of_5.cpp
+    [53/92] Module.SSL.cpp
+    [54/92] Module.AssetRegistry.gen.cpp
+    [55/92] Module.Slate.3_of_5.cpp
+    [56/92] NetCommonModule.cpp
+    [57/92] Module.BuildPatchTool.cpp
+    [58/92] AutomationWorkerMessages.gen.cpp
+    [59/92] Module.Slate.gen.cpp
+    [60/92] Module.Core.2_of_15.cpp
+    [61/92] Module.Core.7_of_15.cpp
+    [62/92] Module.DesktopPlatform.cpp
+    [63/92] Module.Core.11_of_15.cpp
+    [64/92] Module.Core.10_of_15.cpp
+    [65/92] Module.Core.6_of_15.cpp
+    [66/92] Module.Core.14_of_15.cpp
+    [67/92] Module.Core.12_of_15.cpp
+    [68/92] Module.Core.13_of_15.cpp
+    [69/92] Module.Slate.5_of_5.cpp
+    [70/92] Module.Slate.4_of_5.cpp
+    [71/92] Module.Core.9_of_15.cpp
+    [72/92] Module.Core.3_of_15.cpp
+    [73/92] Module.CoreUObject.1_of_9.cpp
+    [74/92] Module.Core.4_of_15.cpp
+    [75/92] Module.Core.1_of_15.cpp
+    [76/92] Module.Core.15_of_15.cpp
+    [77/92] Module.CoreUObject.gen.cpp
+    [78/92] Module.CoreUObject.8_of_9.cpp
+    [79/92] Module.CoreUObject.2_of_9.cpp
+    [80/92] AssetEditorMessages.gen.cpp
+    [81/92] Module.EditorStyle.gen.cpp
+    [82/92] Module.CoreUObject.6_of_9.cpp
+    [83/92] Module.Core.5_of_15.cpp
+    [84/92] Module.CoreUObject.5_of_9.cpp
+    [85/92] Module.CoreUObject.3_of_9.cpp
+    [86/92] Module.CoreUObject.9_of_9.cpp
+    [87/92] Module.Sockets.cpp
+    [88/92] Module.Core.8_of_15.cpp
+    [89/92] Module.CoreUObject.7_of_9.cpp
+    [90/92] Module.CoreUObject.4_of_9.cpp
+    [91/92] BuildPatchTool-Win64-Development.exe
+       D:\ub\Engine\Binaries\Win64\BuildPatchTool-Win64-Development.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Binaries\Win64\BuildPatchTool-Win64-Development.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [92/92] BuildPatchTool.target
+  Total time in Parallel executor: 305.19 seconds
+  Total execution time: 31291.69 seconds

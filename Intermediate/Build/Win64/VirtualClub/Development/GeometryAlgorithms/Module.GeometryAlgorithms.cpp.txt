@@ -1,0 +1,530 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\GeometryAlgorithms\Definitions.GeometryAlgorithms.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/Arrangement2d.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\Arrangement2d.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\BoxTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MathUtil.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\TransformTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Quaternion.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MatrixTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\IndexTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Curve/DynamicGraph2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Curve\DynamicGraph.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\GeometryTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/DynamicVector.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IndexUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IteratorUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/RefCountVector.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/SmallListSet.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\SegmentTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrSegment2Segment2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/Intersector1.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntersectionUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrLine2Line2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\LineTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Polygon2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/PointHashGrid2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/GridIndexing2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteConstrainedDelaunay2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDelaunay2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteLogger.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/GTEngineDEF.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ratio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteETManifoldMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteEdgeKey.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteFeatureKey.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTriangleKey.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GtePrimalQuery2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVector2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVector.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\array
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteLine.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSNumber.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBitHacks.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMath.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIEEEBinary.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\fstream
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteUIntegerFP32.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteUIntegerALU32.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ConstrainedDelaunay2.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\ConstrainedDelaunay2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Curve/GeneralPolygon2.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ConvexHull2.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\ConvexHull2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\PlaneTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\ExactPredicates.h
+D:\ub\Engine\Source\Runtime\Core\Public\Algo/Unique.h
+D:\ub\Engine\Source\Runtime\Core\Public\Templates/EqualTo.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ConvexHull3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\ConvexHull3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\HalfspaceTypes.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/Distance/DistLine3Circle3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\Distance/DistLine3Circle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\CircleTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\OrientedBoxTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\FrameTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\RayTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLine3Circle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDCPQuery.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteCircle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVector3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRootsBisection.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRootsPolynomial.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\GteUtil.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ExactPredicates.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ExactPredicates/ThirdParty/ShewchukPredicatesInterface.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ExactPredicates/ThirdParty/Predicates.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/FitCapsule3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\FitCapsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\CapsuleTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteCapsule.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSegment.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContCapsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprOrthogonalLine3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprQuery.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\random
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSymmetricEigensolver3x3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointLine.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointSegment.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteHypersphere.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/GeometryAlgorithmsModule.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\GeometryAlgorithmsModule.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/MinVolumeBox3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\MinVolumeBox3.h
+D:\ub\Engine\Source\Runtime\Core\Public\Templates/PimplPtr.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSRational.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteUIntegerAP32.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteConvexHull3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GtePrimalQuery3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteHyperplane.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMatrix.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteGaussianElimination.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteLexicoArray2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteWrapper.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSingularValueDecomposition.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteRangeIteration.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMinimumVolumeBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMinimumAreaBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteOrientedBox.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteConvexHull2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/ProgressCancel.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/MinVolumeSphere3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Public\MinVolumeSphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\SphereTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMinimumVolumeSphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContSphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteLinearSystem.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMatrix2x2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMatrix3x3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMatrix4x4.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVector4.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/GTEnginePCH.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/GTEnginePCH.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/GTEngine.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/GTLowLevel.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteArray2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteArray3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteArray4.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteAtomicMinMax.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteMinHeap.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteSharedPtrCompare.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteThreadSafeMap.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteThreadSafeQueue.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\queue
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteWeakPtrCompare.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteLogReporter.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteLogToFile.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteLogToStdout.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteLogToStringArray.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/LowLevel/GteTimer.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/GTMathematics.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIEEEBinary16.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteArbitraryPrecision.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSPrecision.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteQuadraticField.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteAxisAngle.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBandedMatrix.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteConvertCoordinates.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteEulerAngles.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteGMatrix.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteGVector.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GtePolynomial1.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteQuaternion.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteChebyshevRatio.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRotation.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprCircle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprQuadratic2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSymmetricEigensolver.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprCone3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteGaussNewtonMinimizer.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteCholeskyDecomposition.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteLevenbergMarquardtMinimizer.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprCylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteCylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprEllipseByArcs.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContScribeCircle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprEllipse2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContOrientedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprGaussian2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSymmetricEigensolver2x2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointHyperellipsoid.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteHyperellipsoid.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMinimizeN.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMinimize1.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprEllipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContOrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprGaussian3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprGreatCircle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprHeightLine2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprHeightPlane3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprOrthogonalLine2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprOrthogonalPlane3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprParaboloid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprPolynomial2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprPolynomial3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprPolynomial4.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprPolynomialSpecial2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprPolynomialSpecial3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprPolynomialSpecial4.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprQuadratic3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprSphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteApprTorus3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDelaunay2Mesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDelaunay3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTSManifoldMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTetrahedronKey.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDelaunay3Mesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteETNonmanifoldMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIsPlanarGraph.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMinimalCycleBasis.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stack
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMinimumAreaCircle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContCircle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteNearestNeighborQuery.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteOBBTreeOfPoints.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GtePlanarMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContPointInPolygon2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSeparatePoints2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSeparatePoints3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTriangulateCDT.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTriangulateEC.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteUniqueVerticesTriangles.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVEManifoldMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVETManifoldMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVETNonmanifoldMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVertexCollapseMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GtePolygon2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment2Segment2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrIntervals.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteFIQuery.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTIQuery.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2Line2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContAlignedBox.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteAlignedBox.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContCone.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteCone.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRay.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContCylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContEllipse2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteProjection.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContEllipse2MinCR.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContEllipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContEllipsoid3MinCR.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContPointInPolyhedron3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3Plane3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3Plane3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPoint3Plane3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTriangle.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteContScribeCircle3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBasisFunction.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBezierCurve.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteParametricCurve.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntegration.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSplineCurve.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSplineCurveFit.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSplineSurface.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteParametricSurface.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSplineSurfaceFit.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteBSplineVolume.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDarbouxFrame.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteFrenetFrame.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIndexAttribute.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteVertexAttribute.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteNaturalSplineCurve.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteNURBSCircle.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteNURBSCurve.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteNURBSSurface.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteNURBSSphere.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteNURBSVolume.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRectangleMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRectangle.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRectanglePatchMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRevolutionMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTCBSplineCurve.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTubeMesh.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistAlignedBoxAlignedBox.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistAlignedBox3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteLCPSolver.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistCircle3Circle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLine3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointAlignedBox.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLine3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLine3Rectangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLineSegment.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLine3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLineLine.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistLineRay.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistOrientedBox3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPoint3Circle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPoint3ConvexPolyhedron3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteConvexPolyhedron3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPoint3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPoint3Frustum3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteFrustum3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPoint3Rectangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPoint3Tetrahedron3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointTriangle.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTetrahedron3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointOrientedBox.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointRay.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistPointTriangleExact.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRay3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRay3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRay3Rectangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRay3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRayRay.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRaySegment.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRectangle3Rectangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistSegment3Rectangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRectangle3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistRectangle3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistSegment3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistSegment3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistSegment3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistSegmentSegment.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistSegmentSegmentExact.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistTriangle3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistTriangle3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistTriangle3Rectangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteDistTriangle3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteACosEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteASinEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteATanEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteCosEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteExp2Estimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteExpEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteInvSqrtEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteLog2Estimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteLogEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSinEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSlerpEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSqrtEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTanEstimate.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteArc2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteEllipse3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteHalfspace.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GtePolyhedron3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteSector2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteTorus3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpAkima1.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpAkimaNonuniform1.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpAkimaUniform1.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpAkimaUniform2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpAkimaUniform3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpBicubic2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpBilinear2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpBSplineUniform.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpLinearNonuniform2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpLinearNonuniform3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpQuadraticNonuniform2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpSphere2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpThinPlateSpline2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpThinPlateSpline3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpTricubic3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpTrilinear3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntpVectorField2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox2AlignedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox2Circle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox2OrientedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox3Cone3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3AlignedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrAlignedBox3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrArc2Arc2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrCircle2Circle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrCapsule3Capsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrCircle2Arc2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrConvexPolygonHyperplane.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrDisk2Sector2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrEllipse2Ellipse2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrEllipsoid3Ellipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace2Polygon2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace3Capsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace3Ellipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace3Segment3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrHalfspace3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2AlignedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2Arc2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2Circle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2OrientedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2Ray2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2Segment2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine2Triangle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3Capsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3Cone3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3Ellipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrLine3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox2Circle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox2Cone2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay2OrientedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay2AlignedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox2OrientedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox2Sector2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox3Cone3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox3Frustum3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrOrientedBox3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3Capsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3Circle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3Plane3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3Ellipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrPlane3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay2Arc2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay2Circle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay2Ray2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay2Segment2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay2Triangle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3Capsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3Cone3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3Ellipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrRay3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment2AlignedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment2Arc2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment2Circle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment2OrientedBox2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment2Triangle2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3Capsule3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3Cone3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3Cylinder3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3Ellipsoid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3Plane3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSegment3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSphere3Cone3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSphere3Frustum3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSphere3Sphere3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrSphere3Triangle3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteIntrTriangle3OrientedBox3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteCubicRootsQR.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteOdeEuler.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteOdeSolver.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteOdeImplicitEuler.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteOdeMidpoint.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteOdeRungeKutta4.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteQuarticRootsQR.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteRootsBrentsMethod.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometryAlgorithms\Private\ThirdParty/GTEngine/Mathematics/GteUnsymmetricEigenvalues.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/LowLevel/GteLogger.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/LowLevel/GteLogReporter.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/LowLevel/GteLogToFile.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/LowLevel/GteLogToStdout.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/LowLevel/GteLogToStringArray.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/LowLevel/GteTimer.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/LowLevel/GteWrapper.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteBitHacks.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteBSPrecision.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteETManifoldMesh.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteETNonmanifoldMesh.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteIEEEBinary16.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteTetrahedronKey.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteTSManifoldMesh.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteUIntegerAP32.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteVEManifoldMesh.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteVETManifoldMesh.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometryAlgorithms/Private/ThirdParty/GTEngine/Mathematics/GteVETNonmanifoldMesh.cpp

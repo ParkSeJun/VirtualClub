@@ -1,0 +1,17 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\RawMesh\Definitions.RawMesh.h
+D:\ub\Engine\Source\Runtime\RawMesh\Public\RawMesh.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+D:\ub\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataCommon.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkData2.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataBuffer.h
+D:\ub\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+D:\ub\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+D:\ub\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h

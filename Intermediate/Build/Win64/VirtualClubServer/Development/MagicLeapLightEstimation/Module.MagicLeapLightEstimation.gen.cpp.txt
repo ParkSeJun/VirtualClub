@@ -1,0 +1,13 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\MagicLeapLightEstimation\Definitions.MagicLeapLightEstimation.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/MagicLeapLightEstimation/LightingTrackingComponent.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\ub\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation/Public/LightingTrackingComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\MagicLeapLightEstimation\LightingTrackingComponent.generated.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/MagicLeapLightEstimation/MagicLeapLightEstimation.init.gen.cpp
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/MagicLeapLightEstimation/MagicLeapLightEstimationFunctionLibrary.gen.cpp
+D:\ub\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation/Public/MagicLeapLightEstimationFunctionLibrary.h
+D:\ub\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation\Public\MagicLeapLightEstimationTypes.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\MagicLeapLightEstimation\MagicLeapLightEstimationTypes.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\MagicLeapLightEstimation\MagicLeapLightEstimationFunctionLibrary.generated.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/MagicLeapLightEstimation/MagicLeapLightEstimationTypes.gen.cpp

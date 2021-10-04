@@ -1,0 +1,475 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\SteamVR\Definitions.SteamVR.h
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRAssetManager.cpp
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRAssetManager.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRSystemAssets.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Public\ISteamVRPlugin.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayModule.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+D:\ub\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+D:\ub\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRHMD.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplay.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayBase.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\XRTrackingSystemBase.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRCamera.h
+D:\ub\Engine\Source\Runtime\AugmentedReality\Public\ARSupportInterface.h
+D:\ub\Engine\Source\Runtime\AugmentedReality\Public\ARTypes.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\AugmentedReality\ARTypes.generated.h
+D:\ub\Engine\Source\Runtime\AugmentedReality\Public\ARSessionConfig.h
+D:\ub\Engine\Source\Runtime\AugmentedReality\Public\ARTrackable.h
+D:\ub\Engine\Source\Runtime\AugmentedReality\Public\ARComponent.h
+D:\ub\Engine\Source\Runtime\MRMesh\Public\MRMeshBufferDefines.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\AugmentedReality\ARComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\AugmentedReality\ARTrackable.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\AugmentedReality\ARSessionConfig.generated.h
+D:\ub\Engine\Source\Runtime\AugmentedReality\Public\ARTextures.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\TextureCube.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\AugmentedReality\ARTextures.generated.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultSpectatorScreenController.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\ISpectatorScreenController.h
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRFunctionLibrary.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\SteamVR\SteamVRFunctionLibrary.generated.h
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRSplash.h
+D:\ub\Engine\Source\Runtime\Engine\Public\IStereoLayers.h
+D:\ub\Engine\Source\Runtime\Engine\Public\StereoLayerShapes.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\StereoLayerManager.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRLoadingScreen.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderTargetManager.h
+D:\ub\Engine\Source\Runtime\Engine\Public\StereoRenderTargetManager.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderBridge.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\XRSwapChain.h
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayVulkanExtensions.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLDrv.h
+D:\ub\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+D:\ub\Engine\Source\Runtime/OpenGLDrv/Private/Windows/OpenGLWindows.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\ub\Engine\Source\ThirdParty\OpenGL\GL/glcorearb.h
+D:\ub\Engine\Source\ThirdParty\OpenGL\GL/glext.h
+D:\ub\Engine\Source\ThirdParty\OpenGL\GL/wglext.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGL4.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGL3.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGL.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLUtil.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLState.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLResources.h
+D:\ub\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+D:\ub\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLShaderResources.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderPipelineCache.h
+D:\ub\Engine\Source\Runtime\RHI\Public\PipelineFileCache.h
+D:\ub\Engine\Source\Runtime\RHI\Public\PsoLruCache.h
+D:\ub\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+D:\ub\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\SceneViewExtensionContext.generated.h
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRChaperoneComponent.cpp
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRChaperoneComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\SteamVR\SteamVRChaperoneComponent.generated.h
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRPrivate.h
+D:\ub\Engine\Source\Runtime/Engine/Public/ScreenRendering.h
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRFunctionLibrary.cpp
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRHMD.cpp
+D:\ub\Engine\Source\Runtime\Engine\Public\HardwareInfo.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\RendererPrivate.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\PostProcessParameters.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ShaderComplexityRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\DebugViewModeRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameters.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphBlackboard.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\MeshDrawShaderBindings.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+D:\ub\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+D:\ub\Engine\Source\Runtime\Engine\Public\DebugViewModeInterface.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PostProcess/SceneRenderTargets.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PostProcess\../TranslucencyPass.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PostProcess\../VT/VirtualTextureFeedback.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\VT/VirtualTextureFeedbackBuffer.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ScenePrivateBase.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\LightSceneInfo.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\SceneRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\DistortionRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HeightfieldLighting.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\LightShaftRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\SkyAtmosphereRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\MeshDrawCommands.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\GpuDebugRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessAmbientOcclusionMobile.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\DepthRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\TranslucentRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\VolumeRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ScreenPass.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PostProcess/SceneFilterRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\RenderTargetTemp.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ScreenPass.inl
+D:\ub\Engine\Source\Runtime\Renderer\Private\ScreenSpaceDenoise.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\DynamicPrimitiveDrawing.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\DynamicPrimitiveDrawing.inl
+D:\ub\Engine\Source\Runtime\Renderer\Private\LightMapDensityRendering.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\LightMapTexture2D.generated.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ClearQuad.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\AtmosphereRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\LightPropagationVolume.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ScenePrivate.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\SceneCore.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/AllocatorFixedSizeFreeList.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\SceneHitProxyRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ShadowRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\SystemTextures.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\LightRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands/HairStrandsRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsUtils.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\HairStrandsInterface.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsCluster.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVoxelization.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDeepShadow.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsClusters.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsLUT.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVisibility.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsTransmittance.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsEnvironment.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsComposition.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDebug.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\LightMapRendering.h
+D:\ub\Engine\Source\Runtime\Engine\Public\LightMap.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\VelocityRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\BasePassRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\FogRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\VolumetricFog.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PlanarReflectionRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\ReflectionEnvironment.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\MobileBasePassRendering.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\SceneSoftwareOcclusion.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\VolumetricFogShared.h
+D:\ub\Engine\Source\Runtime\Engine\Public\PrecomputedVolumetricLightmap.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\RayTracing/RaytracingOptions.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\RayTracing/RayTracingIESLightProfiles.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\Halton.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\HaltonUtilities.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\VolumetricRenderTargetViewStateData.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\BasePassRendering.inl
+D:\ub\Engine\Source\Runtime\Renderer\Private\RendererModule.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessHMD.h
+D:\ub\Engine\Source\Runtime\Renderer\Private\PostProcess\RenderingCompositionGraph.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\ub\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\ub\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\GameEngine.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\EngineAnalytics.h
+D:\ub\Engine\Source\Runtime\Analytics\AnalyticsET\Public\IAnalyticsProviderET.h
+D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsEventAttribute.h
+D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsConversion.h
+D:\ub\Engine\Source\Runtime\Analytics\AnalyticsET\Public\AnalyticsET.h
+D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProviderModule.h
+D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsProviderConfigurationDelegate.h
+D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProvider.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\ub\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\FontImportOptions.generated.h
+D:\ub\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\SlateCore\FontProviderInterface.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\Font.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\Canvas.generated.h
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRHQLayerShape.cpp
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRHQLayerShape.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/StereoLayerComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\StereoLayerComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\SteamVR\SteamVRHQLayerShape.generated.h
+D:\ub\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Public\SteamVRStereoLayers.h
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRRender.cpp
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanRHIPrivate.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIValidationUtils.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIValidationContext.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanPlatform.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanWindowsPlatform.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanGenericPlatform.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanLoader.h
+D:\ub\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
+D:\ub\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
+D:\ub\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
+D:\ub\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_win32.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Public\VulkanCommon.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandsDirect.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanState.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanResources.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanViewport.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanDevice.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanQueue.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandBuffer.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanPendingState.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanPipeline.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanDescriptorSets.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanPipelineState.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanContext.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanGPUProfiler.h
+D:\ub\Engine\Source\Runtime\VulkanRHI\Private\VulkanBarriers.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Public\D3D12RHI.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHICommon.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\Windows/D3D12RHIBasePrivate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ocidl.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgicommon.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgiformat.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcommon.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12sdklayers.h
+D:\ub\Engine\Source\ThirdParty\Windows\D3DX12\include\d3dx12.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Util.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12DiskCache.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12PipelineState.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\Windows\../D3D12PipelineState.h
+D:\ub\Engine\Source\ThirdParty\NVIDIA\NVaftermath\include\GFSDK_Aftermath.h
+D:\ub\Engine\Source\ThirdParty\NVIDIA\NVaftermath\include\GFSDK_Aftermath_Defines.h
+D:\ub\Engine\Source\ThirdParty\NVIDIA\NVaftermath\include\GFSDK_Aftermath_GpuCrashdump.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Residency.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_6.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_5.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_4.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_3.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_2.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgitype.h
+D:\ub\Engine\Source\ThirdParty\Windows\D3DX12\include\D3DX12Residency.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12State.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Resources.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Public\D3D12ShaderResources.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12RootSignature.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Shader.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12View.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandList.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12DirectCommandListManager.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Viewport.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12ConstantBuffer.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Query.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12TimedIntervalQuery.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12DescriptorCache.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12StateCachePrivate.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Allocation.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandContext.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\delayimp.h
+D:\ub\Engine\Source\ThirdParty\Windows\PIX\include\pix3.h
+D:\ub\Engine\Source\ThirdParty\Windows\PIX\include\pix3_win.h
+D:\ub\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsCommon.h
+D:\ub\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsGenerated.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Stats.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Device.h
+D:\ub\Engine\Source\Runtime\D3D12RHI\Private\D3D12Adapter.h
+D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dxgidebug.h
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRSpectatorScreen.cpp
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRSplash.cpp
+D:/ub/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRStereoLayers.cpp
+D:\ub\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultXRCamera.h

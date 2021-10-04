@@ -1,0 +1,18 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\BuildSettings\Definitions.h
+D:\ub\Engine\Source\Runtime\BuildSettings\Public\BuildSettings.h
+D:\ub\Engine\Source\Runtime\Core\Public\CoreTypes.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Build.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sal.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\concurrencysal.h
+D:\ub\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h

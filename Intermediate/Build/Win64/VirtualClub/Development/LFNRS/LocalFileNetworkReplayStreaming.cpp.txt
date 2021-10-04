@@ -1,0 +1,9 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\LFNRS\Definitions.LocalFileNetworkReplayStreaming.h
+D:\ub\Engine\Source\Runtime\NetworkReplayStreaming\LocalFileNetworkReplayStreaming\Public\LocalFileNetworkReplayStreaming.h
+D:\ub\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public\NetworkReplayStreaming.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h

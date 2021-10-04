@@ -1,0 +1,210 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\NavigationSystem\Definitions.NavigationSystem.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/AbstractNavData.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\AbstractNavData.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\NavAreaBase.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavArea.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\NavigationSystemConfig.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\NavigationDataInterface.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationData.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\AbstractNavData.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationOctree.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationOctreeController.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationDirtyAreasController.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/MovingWindowAverageFast.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationSystem.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_Default.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_Default.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavArea_Default.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_LowHeight.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_LowHeight.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavArea_LowHeight.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_Null.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_Null.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavArea_Null.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMesh.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshPath.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationPath.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationPath.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\RecastNavMesh.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_Obstacle.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_Obstacle.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavArea_Obstacle.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavAreaMeta.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavAreaMeta.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavAreaMeta.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavAreaMeta_SwitchByAgent.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavAreaMeta_SwitchByAgent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavAreaMeta_SwitchByAgent.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavCollision.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavCollision.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavCollisionBase.h
+D:\ub\Engine\Source\Runtime\Engine\Public\AI/NavigationSystemHelpers.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+D:\ub\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
+D:\ub\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\NavCollisionBase.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavCollision.generated.h
+D:\ub\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataPluginInterface.h
+D:\ub\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataCacheInterface.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CookStats.h
+D:\ub\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+D:\ub\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+D:\ub\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavFilters/NavigationQueryFilter.cpp
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavFilters/RecastFilter_UseDefaultArea.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/RecastFilter_UseDefaultArea.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\RecastFilter_UseDefaultArea.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastQueryFilter.h
+D:\ub\Engine\Source\Runtime\Navmesh\Public\Detour/DetourNavMesh.h
+D:\ub\Engine\Source\Runtime\Navmesh\Public\Detour/DetourAlloc.h
+D:\ub\Engine\Source\Runtime\Navmesh\Public\Detour/DetourStatus.h
+D:\ub\Engine\Source\Runtime\Navmesh\Public\Detour/DetourNavMeshQuery.h
+D:\ub\Engine\Source\Runtime\Navmesh\Public\Detour/DetourCommon.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavGraph/NavGraphGenerator.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Private\NavGraph/NavGraphGenerator.h
+D:\ub\Engine\Source\Runtime\Engine\Public\AI/NavDataGenerator.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavGraph/NavigationGraph.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavGraph/NavigationGraph.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationGraph.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavNodeInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavNodeInterface.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavGraph/NavigationGraphNodeComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationGraphNodeComponent.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavGraph/NavigationGraphNode.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationGraphNode.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationData.cpp
+D:\ub\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+D:\ub\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+D:\ub\Engine\Source\Runtime\Engine\Public\VisualLogger\VisualLoggerCustomVersion.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationDataHandler.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationDataHandler.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMeshGenerator.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastHelpers.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavDebugTypes.h
+D:\ub\Engine\Source\Runtime\Engine\Public\DebugRenderSceneProxy.h
+D:\ub\Engine\Source\Runtime\Navmesh\Public\Recast/Recast.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastInternalDebugData.h
+D:\ub\Engine\Source\Runtime\Navmesh\Public\DebugUtils/DebugDraw.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationDirtyAreasController.cpp
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationInterfaces.cpp
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationInvokerComponent.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationInvokerComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationInvokerComponent.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationOctree.cpp
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationOctreeController.cpp
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationPath.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\ub\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\FontImportOptions.generated.h
+D:\ub\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\SlateCore\FontProviderInterface.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\Font.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\Canvas.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Debug/DebugDrawService.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\DebugDrawService.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationSystem.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshBoundsVolume.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavMeshBoundsVolume.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataChunk.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\NavigationDataChunk.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavLinkCustomInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavLinkCustomInterface.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\CrowdManagerBase.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\CrowdManagerBase.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationSystemModule.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemModule.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationSystemTypes.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavLinkHostInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavLinkHostInterface.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationPathGenerator.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationPathGenerator.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavigationTestingActor.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavigationTestingActor.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavPathObserverInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\NavPathObserverInterface.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavigationTestingActor.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavTestRenderingComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavTestRenderingComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\ShapeComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\CapsuleComponent.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavLinkComponent.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavLinkComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavLinkComponent.generated.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavLinkRenderingProxy.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavLinkTrivial.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavLinkTrivial.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavLinkCustomComponent.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavLinkCustomComponent.h
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavRelevantComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavRelevantComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavLinkCustomComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavLinkRenderingComponent.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavLinkRenderingComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavLinkRenderingComponent.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavMesh/NavMeshBoundsVolume.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\BrushComponent.generated.h
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavMesh/NavMeshPath.cpp
+D:/ub/Engine/Source/Runtime/NavigationSystem/Private/NavMesh/NavMeshRenderingComponent.cpp
+D:\ub\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshRenderingComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NavigationSystem\NavMeshRenderingComponent.generated.h

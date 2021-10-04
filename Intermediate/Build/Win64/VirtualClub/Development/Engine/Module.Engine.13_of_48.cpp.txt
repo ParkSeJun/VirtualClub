@@ -1,0 +1,159 @@
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/SkinnedMeshComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+D:\ub\Engine\Source\Runtime\Engine\Public\SkeletalRenderPublic.h
+D:\ub\Engine\Source\Runtime\Engine\Private\SkeletalRenderCPUSkin.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshRenderData.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODRenderData.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Rendering/MultiSizeIndexContainer.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexBuffer.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshDuplicatedVerticesBuffer.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexClothBuffer.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Rendering/MorphTargetVertexInfoBuffers.h
+D:\ub\Engine\Source\Runtime\Engine\Private\SkeletalRenderGPUSkin.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+D:\ub\Engine\Source\Runtime\Engine\Public\GPUSkinCache.h
+D:\ub\Engine\Source\Runtime\Engine\Private\SkeletalRenderStatic.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/SkeletalMeshSocket.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SkeletalMeshSocket.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+D:\ub\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\MorphTarget.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\AnimationRuntime.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Animation/SkinWeightProfileManager.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SkinWeightProfileManager.generated.h
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/SkyAtmosphereComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/SkyAtmosphereComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SkyAtmosphereComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Atmosphere/AtmosphericFogComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\AtmosphericFogComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\ArrowComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\BillboardComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/MapBuildDataRegistry.h
+D:\ub\Engine\Source\Runtime\Engine\Public\LightMap.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\LightMapTexture2D.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\TextureCube.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\MapBuildDataRegistry.generated.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/MapErrors.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Misc/UObjectToken.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/DirectionalLightComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\LightComponentBase.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\LightComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\DirectionalLightComponent.generated.h
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/SkyLightComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/SkyLightComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SkyLightComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/SkyLight.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SkyLight.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+D:\ub\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+D:\ub\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/SphereComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\ShapeComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SphereComponent.generated.h
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/SplineComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SplineComponent.generated.h
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/SplineMeshComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SplineMeshComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Private\SplineMeshSceneProxy.h
+D:\ub\Engine\Source\Runtime\Engine\Public\AI/NavigationSystemHelpers.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+D:\ub\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
+D:\ub\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavCollisionBase.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\NavCollisionBase.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshSocket.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\StaticMeshSocket.generated.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+D:\ub\Engine\Source\Runtime\Engine\Public\MeshMaterialShaderType.h
+D:\ub\Engine\Source\Runtime\Engine\Public\MaterialShaderType.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameters.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphBlackboard.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+D:\ub\Engine\Source\Runtime\Renderer\Public\MeshDrawShaderBindings.h
+D:\ub\Engine\Source\Runtime\Engine\Public\StaticMeshLight.h
+D:\ub\Engine\Source\Runtime\Engine\Public\StaticLighting.h
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/SpotLightComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/SpotLightComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\LocalLightComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\PointLightComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SpotLightComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Private\PointLightSceneProxy.h
+D:\ub\Engine\Source\Runtime\Engine\Public\LocalLightSceneProxy.h
+D:/ub/Engine/Source/Runtime/Engine/Private/Components/StaticMeshComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Public\ShadowMap.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/ShadowMapTexture2D.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\ShadowMapTexture2D.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\ComponentRecreateRenderStateContext.h
+D:\ub\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+D:\ub\Engine\Source\Runtime\Core\Public\Algo/Transform.h

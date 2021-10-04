@@ -1,0 +1,9 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\VirtualClub\Definitions.VirtualClub.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\VirtualClub\Source\VirtualClub/VirtualClubGameMode.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\ServerStatReplicator.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\Engine\GameModeBase.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\VirtualClub\VirtualClubGameMode.generated.h

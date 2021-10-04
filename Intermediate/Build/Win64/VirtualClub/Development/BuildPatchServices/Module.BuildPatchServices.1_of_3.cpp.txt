@@ -1,0 +1,318 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\BuildPatchServices\Definitions.BuildPatchServices.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchDelta.cpp
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchDelta.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildManifest.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchUtil.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchManifest.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ChunkData.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchFeatureLevel.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestData.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchMergeManifests.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFeatureLevel.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFileConstructor.cpp
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchFileConstructor.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchProgress.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Controllable.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchState.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/SpeedRecorder.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchInstall.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\IBuildManifestSet.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchSettings.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchVerify.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchServicesPrivate.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildInstaller.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchMessage.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/StatsCollector.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/FileSystem.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkSource.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkReferenceTracker.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallerError.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallerAnalytics.h
+D:\ub\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+D:\ub\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchGeneration.cpp
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchGeneration.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchServicesModule.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildPatchServicesModule.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IPatchDataEnumeration.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchInstaller.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/HttpManager.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/AsyncHelpers.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/Platform.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/ProcessTimer.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchHash.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/RingBuffer.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockStructure.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockRange.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockData.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/DataScanner.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/CloudEnumeration.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/DeltaEnumeration.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/BuildStreamer.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/Factory.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/FileSpan.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/CloudChunkSource.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DownloadConnectionCount.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ManifestBuilder.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/FileAttributesParser.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkWriter.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkMatchProcessor.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchHash.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstall.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstaller.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\ub\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\ub\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/ChunkDataSizeProvider.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/DataSizeProvider.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DiskChunkStore.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkStore.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MemoryChunkStore.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkEvictionPolicy.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DownloadService.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkDbChunkSource.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallChunkSource.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChainedChunkSource.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Verifier.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/FileAttribution.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Prerequisites.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MachineConfig.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MessagePump.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/OptimisedDelta.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/MemoryChunkStoreStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/DiskChunkStoreStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/DownloadServiceStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/ChunkDbChunkSourceStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/InstallChunkSourceStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/CloudChunkSourceStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/FileConstructorStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/VerifierStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/FileOperationTracker.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifest.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+D:\ub\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\ub\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\ub\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+D:\ub\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\ub\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+D:\ub\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+D:\ub\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+D:\ub\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+D:\ub\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+D:\ub\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\ub\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifestSet.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchMergeManifests.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchProgress.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesModule.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\ub\Engine\Source\Runtime\Online\HTTP\Public\HttpManager.h
+D:\ub\Engine\Source\Runtime/Online/HTTP/Private/IHttpThreadedRequest.h
+D:\ub\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/HttpRequestImpl.h
+D:\ub\Engine\Source\Runtime\Online\HTTP\Public\HttpPackage.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Compactify/PatchDataCompactifier.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Diffing/DiffManifests.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Enumeration/PatchDataEnumeration.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkDeltaOptimiser.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/PackageChunkData.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/BuildStatistics.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchVerifyChunkData.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchServicesSingleton.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesSingleton.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchSettings.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchState.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchUtil.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Base64.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchVerifyChunkData.cpp
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkDatabaseWriter.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/ChunkDataSizeProvider.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/FileSystem.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/HttpManager.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/SpeedRecorder.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/StatsCollector.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Compactify/PatchDataCompactifier.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Algo/Partition.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Core/BlockStructure.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ChunkData.cpp
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestData.cpp
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestUObject.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\BuildPatchServices\ManifestUObject.generated.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\ub\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:/ub/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestUObject.cpp

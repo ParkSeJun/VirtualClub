@@ -1,0 +1,31 @@
+﻿  Creating makefile for BenchmarkTool (no existing makefile)
+  Building BenchmarkTool...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 25 actions with 8 processes...
+    [1/25] BuildSettings.cpp
+    [2/25] Default.rc2
+    [3/25] Module.TraceLog.cpp
+    [4/25] PCH.Core.cpp
+    [5/25] SharedPCH.Core.ShadowErrors.cpp
+    [6/25] BenchmarkTool.cpp
+    [7/25] Module.Core.15_of_15.cpp
+    [8/25] Module.Core.7_of_15.cpp
+    [9/25] Module.Core.2_of_15.cpp
+    [10/25] Module.Core.8_of_15.cpp
+    [11/25] Module.Core.6_of_15.cpp
+    [12/25] Module.Core.9_of_15.cpp
+    [13/25] Module.Json.cpp
+    [14/25] Module.Core.11_of_15.cpp
+    [15/25] Module.Core.14_of_15.cpp
+    [16/25] Module.Core.4_of_15.cpp
+    [17/25] Module.Core.10_of_15.cpp
+    [18/25] Module.Projects.cpp
+    [19/25] Module.Core.1_of_15.cpp
+    [20/25] Module.Core.13_of_15.cpp
+    [21/25] Module.Core.3_of_15.cpp
+    [22/25] Module.Core.5_of_15.cpp
+    [23/25] Module.Core.12_of_15.cpp
+    [24/25] BenchmarkTool.exe
+    [25/25] BenchmarkTool.target
+  Total time in Parallel executor: 59.45 seconds
+  Total execution time: 31213.89 seconds

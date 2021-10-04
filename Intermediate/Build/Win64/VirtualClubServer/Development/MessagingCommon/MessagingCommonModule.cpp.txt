@@ -1,0 +1,1 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\MessagingCommon\Definitions.MessagingCommon.h

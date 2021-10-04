@@ -1,0 +1,14 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\NiagaraCore\Definitions.NiagaraCore.h
+D:/ub/Engine/Plugins/FX/Niagara/Source/NiagaraCore/Private/NiagaraCompileHash.cpp
+D:\ub\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCompileHash.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\NiagaraCore\NiagaraCompileHash.generated.h
+D:/ub/Engine/Plugins/FX/Niagara/Source/NiagaraCore/Private/NiagaraCoreModule.cpp
+D:\ub\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCoreModule.h
+D:\ub\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraDataInterfaceBase.h
+D:\ub\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCore.h
+D:\ub\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraMergeable.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\NiagaraCore\NiagaraMergeable.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\NiagaraCore\NiagaraDataInterfaceBase.generated.h
+D:/ub/Engine/Plugins/FX/Niagara/Source/NiagaraCore/Private/NiagaraCustomVersion.cpp
+D:\ub\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCustomVersion.h
+D:/ub/Engine/Plugins/FX/Niagara/Source/NiagaraCore/Private/NiagaraMergeable.cpp

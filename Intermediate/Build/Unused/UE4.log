@@ -1,0 +1,6 @@
+﻿  Parsing headers for UE4Server
+    Running UnrealHeaderTool UE4Server "D:\ub\Engine\Intermediate\Build\Win64\UE4Server\Development\UE4Server.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ub\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UE4Server in 74.6655376 seconds
+  Target is up to date
+  Total execution time: 1999.80 seconds

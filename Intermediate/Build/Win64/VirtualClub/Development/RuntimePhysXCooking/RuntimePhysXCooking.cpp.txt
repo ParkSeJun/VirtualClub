@@ -1,0 +1,4 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\RuntimePhysXCooking\Definitions.RuntimePhysXCooking.h
+D:\ub\Engine\Source\Runtime\PhysXCooking\Public\PhysXCooking.h
+D:\ub\Engine\Source\Runtime\PhysicsCore\Public\IPhysXCookingModule.h
+D:\ub\Engine\Source\Runtime\PhysicsCore\Public\IPhysXCooking.h

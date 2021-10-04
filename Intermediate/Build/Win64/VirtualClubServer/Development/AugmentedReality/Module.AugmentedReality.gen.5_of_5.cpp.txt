@@ -1,0 +1,4 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\AugmentedReality\Definitions.AugmentedReality.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/AugmentedReality/AugmentedReality.init.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

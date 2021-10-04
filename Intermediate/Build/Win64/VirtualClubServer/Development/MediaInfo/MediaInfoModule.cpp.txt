@@ -1,0 +1,4 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\MediaInfo\Definitions.MediaInfo.h
+D:\ub\Engine\Source\Runtime\MediaInfo\Public\IMediaInfoModule.h
+D:\ub\Engine\Source\Runtime\Media\Public\IMediaInfo.h
+D:\ub\Engine\Source\Runtime\Media\Public\IMediaModule.h

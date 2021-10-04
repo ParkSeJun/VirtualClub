@@ -1,0 +1,8 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\EditorStyle\Definitions.EditorStyle.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/EditorStyle/EditorStyle.init.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/EditorStyle/EditorStyleSettings.gen.cpp
+D:\ub\Engine\Source\Editor\EditorStyle/Public/Classes/EditorStyleSettings.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\EditorStyle\EditorStyleSettings.generated.h

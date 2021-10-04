@@ -1,17 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-#include "VirtualClubGameMode.h"
-#include "VirtualClubHUD.h"
-#include "VirtualClubCharacter.h"
-#include "UObject/ConstructorHelpers.h"
-
-AVirtualClubGameMode::AVirtualClubGameMode()
-	: Super()
-{
-	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter"));
-	DefaultPawnClass = PlayerPawnClassFinder.Class;
-
-	// use our custom HUD class
-	HUDClass = AVirtualClubHUD::StaticClass();
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc071aedc7a9ac1e45e8074407bac3d377e3171f587f53794b24766127f52b43
+size 560

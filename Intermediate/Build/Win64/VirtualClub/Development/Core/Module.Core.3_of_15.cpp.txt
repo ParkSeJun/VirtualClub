@@ -1,0 +1,209 @@
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformFile.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/MappedFileHandle.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+D:\ub\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Edge.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Box.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Float32.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Float16.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+D:\ub\Engine\Source\Runtime\Core\Public\Math/Ray.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformIoDispatcher.cpp
+D:\ub\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformIoDispatcher.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/List.h
+D:\ub\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+D:\ub\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+D:\ub\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+D:\ub\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+D:\ub\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+D:\ub\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\ub\Engine\Source\Runtime\Core\Private\IO/IoDispatcherFileBackendTypes.h
+D:\ub\Engine\Source\Runtime\Core\Private\IO/IoStore.h
+D:\ub\Engine\Source\Runtime\Core\Private\IO/IoDirectoryIndex.h
+D:\ub\Engine\Source\Runtime\Core\Public\IO/IoDispatcherBackend.h
+D:\ub\Engine\Source\Runtime\Core\Private\IO/IoDispatcherFileBackend.h
+D:\ub\Engine\Source\Runtime\Core\Private\IO/IoDispatcherPrivate.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CountersTrace.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMallocCrash.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMallocCrash.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMath.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Math/BigInt.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMemory.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/MallocAnsi.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemoryPoolStats.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/MemoryMisc.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMisc.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformChunkInstall.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/FileManagerGeneric.h
+D:\ub\Engine\Source\Runtime\Core\Private\Misc/VarargsHelper.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/ExceptionHandling.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCrashContext.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformDriver.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+D:\ub\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+D:\ub\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/LazySingleton.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/UProjectInfo.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/locid.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/bytestream.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utypes.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/umachine.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/ptypes.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/platform.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uconfig.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uvernum.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/urename.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uversion.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf8.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf16.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf_old.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uobject.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/std_string.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/localpointer.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/strenum.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/unistr.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/char16ptr.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/rep.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/stringpiece.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/putil.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uloc.h
+D:\ub\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uenum.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformNamedPipe.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformOutputDevices.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformOutputDevices.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformOutputDevices.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformOutputDevices.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/FeedbackContextAnsi.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformProcess.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+D:\ub\Engine\Source\Runtime\Core\Private\Misc/EventPool.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformProperties.cpp
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformStackWalk.cpp
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformStricmp.cpp
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformString.cpp
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformSymbolication.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformSymbolication.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSaveCompressedProxy.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/ArchiveLoadCompressedProxy.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformTime.cpp
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericWidePlatformString.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericWidePlatformString.h
+D:/ub/Engine/Source/Runtime/Core/Private/GenericPlatform/StandardPlatformString.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/StandardPlatformString.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/Allocators/CachedOSPageAllocator.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/Allocators/CachedOSPageAllocator.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/Allocators/CachedOSVeryLargePageAllocator.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/Allocators/CachedOSVeryLargePageAllocator.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/Allocators/PooledVirtualMemoryAllocator.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/Allocators/PooledVirtualMemoryAllocator.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/OSAllocationPool.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/ConsoleManager.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/ConsoleManager.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/RemoteConfigIni.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/DiskUtilizationTracker.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/DiskUtilizationTracker.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/ExceptionHandling.cpp
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/FileManagerGeneric.cpp
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/IPlatformFileLogWrapper.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileLogWrapper.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/IPlatformFileManagedStorageWrapper.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileManagedStorageWrapper.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/IPlatformFileOpenLogWrapper.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileOpenLogWrapper.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+D:/ub/Engine/Source/Runtime/Core/Private/HAL/LowLevelMemTracker.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemStats.h
+D:\ub\Engine\Source\Runtime\Core\Private\HAL\LowLevelMemTrackerPrivate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+D:\ub\Engine\Source\Runtime\Core\Private\HAL\LowLevelMemoryUtils.h
+D:\ub\Engine\Source\Runtime\Core\Public\MemPro/MemProProfiler.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h

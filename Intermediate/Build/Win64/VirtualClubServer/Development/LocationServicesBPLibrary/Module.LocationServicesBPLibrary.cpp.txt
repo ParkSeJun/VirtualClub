@@ -1,0 +1,8 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\LocationServicesBPLibrary\Definitions.LocationServicesBPLibrary.h
+D:/ub/Engine/Plugins/Runtime/LocationServicesBPLibrary/Source/LocationServicesBPLibrary/Private/LocationServicesBPLibrary.cpp
+D:\ub\Engine\Plugins\Runtime\LocationServicesBPLibrary\Source\LocationServicesBPLibrary\Classes\LocationServicesBPLibrary.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\LocationServicesBPLibrary\LocationServicesBPLibrary.generated.h
+D:\ub\Engine\Plugins\Runtime\LocationServicesBPLibrary\Source\LocationServicesBPLibrary\Classes\LocationServicesImpl.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\LocationServicesBPLibrary\LocationServicesImpl.generated.h
+D:/ub/Engine/Plugins/Runtime/LocationServicesBPLibrary/Source/LocationServicesBPLibrary/Private/LocationServicesBPLibraryModule.cpp
+D:\ub\Engine\Plugins\Runtime\LocationServicesBPLibrary\Source\LocationServicesBPLibrary\Public\LocationServicesBPLibraryModule.h

@@ -1,0 +1,11 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\MobilePatchingUtils\Definitions.MobilePatchingUtils.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/MobilePatchingUtils/MobilePatchingLibrary.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\ub\Engine\Plugins\Runtime\MobilePatchingUtils\Source\MobilePatchingUtils/Private/MobilePatchingLibrary.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildInstaller.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchState.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchMessage.h
+D:\ub\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildManifest.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\MobilePatchingUtils\MobilePatchingLibrary.generated.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/MobilePatchingUtils/MobilePatchingUtils.init.gen.cpp

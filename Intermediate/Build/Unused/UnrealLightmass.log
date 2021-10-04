@@ -1,0 +1,123 @@
+﻿  Creating makefile for UnrealLightmass (no existing makefile)
+  Parsing headers for UnrealLightmass
+    Running UnrealHeaderTool UnrealLightmass "D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\UnrealLightmass.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ub\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UnrealLightmass in 29.1604013 seconds
+  Building UnrealLightmass...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 82 actions with 8 processes...
+    [1/82] Default.rc2
+    [2/82] BuildSettings.cpp
+    [3/82] Module.TraceLog.cpp
+    [4/82] UnrealLightmass-TraceLog.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\TraceLog\UnrealLightmass-TraceLog.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\TraceLog\UnrealLightmass-TraceLog.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [5/82] UnrealLightmass-BuildSettings.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\BuildSettings\UnrealLightmass-BuildSettings.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\BuildSettings\UnrealLightmass-BuildSettings.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [6/82] UnrealLightmass-TraceLog.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\TraceLog\UnrealLightmass-TraceLog.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\TraceLog\UnrealLightmass-TraceLog.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [7/82] SharedPCH.Core.ShadowErrors.cpp
+    [8/82] UnrealLightmass-BuildSettings.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\BuildSettings\UnrealLightmass-BuildSettings.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\BuildSettings\UnrealLightmass-BuildSettings.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [9/82] SharedPCH.CoreUObject.ShadowErrors.cpp
+    [10/82] Module.Cbor.cpp
+    [11/82] PCH.Core.cpp
+    [12/82] Module.UnrealLightmass.3_of_3.cpp
+    [13/82] Module.Projects.cpp
+    [14/82] PCH.CoreUObject.cpp
+    [15/82] Module.Sockets.cpp
+    [16/82] Module.SwarmInterface.gen.cpp
+    [17/82] Module.UnrealLightmass.2_of_3.cpp
+    [18/82] Module.Core.15_of_15.cpp
+    [19/82] Module.Core.11_of_15.cpp
+    [20/82] Module.Core.8_of_15.cpp
+    [21/82] Module.UnrealLightmass.1_of_3.cpp
+    [22/82] Module.Core.7_of_15.cpp
+    [23/82] Module.Core.2_of_15.cpp
+    [24/82] Module.Core.12_of_15.cpp
+    [25/82] Module.Core.14_of_15.cpp
+    [26/82] Module.Core.13_of_15.cpp
+    [27/82] Module.Core.1_of_15.cpp
+    [28/82] Module.Core.6_of_15.cpp
+    [29/82] Module.Core.3_of_15.cpp
+    [30/82] Module.Core.4_of_15.cpp
+    [31/82] Module.Core.10_of_15.cpp
+    [32/82] Module.Core.9_of_15.cpp
+    [33/82] Module.CoreUObject.9_of_9.cpp
+    [34/82] Module.CoreUObject.2_of_9.cpp
+    [35/82] Module.CoreUObject.8_of_9.cpp
+    [36/82] NetCommonModule.cpp
+    [37/82] Module.Networking.cpp
+    [38/82] Module.CoreUObject.5_of_9.cpp
+    [39/82] Module.CoreUObject.3_of_9.cpp
+    [40/82] Module.CoreUObject.1_of_9.cpp
+    [41/82] Module.SwarmInterface.cpp
+    [42/82] Module.Serialization.gen.cpp
+    [43/82] UnrealLightmass.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\UnrealLightmass.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\UnrealLightmass.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [44/82] Module.CoreUObject.6_of_9.cpp
+    [45/82] Module.UdpMessaging.gen.cpp
+    [46/82] Module.Serialization.cpp
+    [47/82] Module.CoreUObject.gen.cpp
+    [48/82] UnrealLightmass-Projects.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Projects\UnrealLightmass-Projects.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Projects\UnrealLightmass-Projects.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [49/82] Module.ApplicationCore.cpp
+    [50/82] UnrealLightmass-Cbor.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Cbor\UnrealLightmass-Cbor.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Cbor\UnrealLightmass-Cbor.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [51/82] UnrealLightmass-Sockets.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Sockets\UnrealLightmass-Sockets.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Sockets\UnrealLightmass-Sockets.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [52/82] UnrealLightmass-Networking.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Networking\UnrealLightmass-Networking.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Networking\UnrealLightmass-Networking.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [53/82] UnrealLightmass-ApplicationCore.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\ApplicationCore\UnrealLightmass-ApplicationCore.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\ApplicationCore\UnrealLightmass-ApplicationCore.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [54/82] Module.Messaging.cpp
+    [55/82] UnrealLightmass-NetCommon.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\NetCommon\UnrealLightmass-NetCommon.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\NetCommon\UnrealLightmass-NetCommon.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [56/82] UnrealLightmass-Serialization.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Serialization\UnrealLightmass-Serialization.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Serialization\UnrealLightmass-Serialization.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [57/82] UnrealLightmass-SwarmInterface.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\SwarmInterface\UnrealLightmass-SwarmInterface.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\SwarmInterface\UnrealLightmass-SwarmInterface.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [58/82] UnrealLightmass-Messaging.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Messaging\UnrealLightmass-Messaging.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Messaging\UnrealLightmass-Messaging.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [59/82] Module.UdpMessaging.cpp
+    [60/82] UnrealLightmass-UdpMessaging.lib
+       D:\ub\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealLightmass\Development\UdpMessaging\UnrealLightmass-UdpMessaging.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealLightmass\Development\UdpMessaging\UnrealLightmass-UdpMessaging.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [61/82] Module.Json.cpp
+    [62/82] Module.CoreUObject.7_of_9.cpp
+    [63/82] UnrealLightmass-Json.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Json\UnrealLightmass-Json.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Json\UnrealLightmass-Json.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [64/82] Module.Core.5_of_15.cpp
+    [65/82] UnrealLightmass-Core.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Core\UnrealLightmass-Core.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Core\UnrealLightmass-Core.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [66/82] UnrealLightmass-NetCommon.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\NetCommon\UnrealLightmass-NetCommon.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\NetCommon\UnrealLightmass-NetCommon.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [67/82] UnrealLightmass-Cbor.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Cbor\UnrealLightmass-Cbor.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Cbor\UnrealLightmass-Cbor.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [68/82] UnrealLightmass-Networking.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Networking\UnrealLightmass-Networking.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Networking\UnrealLightmass-Networking.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [69/82] UnrealLightmass-Projects.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Projects\UnrealLightmass-Projects.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Projects\UnrealLightmass-Projects.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [70/82] UnrealLightmass-Json.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Json\UnrealLightmass-Json.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Json\UnrealLightmass-Json.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [71/82] UnrealLightmass-ApplicationCore.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\ApplicationCore\UnrealLightmass-ApplicationCore.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\ApplicationCore\UnrealLightmass-ApplicationCore.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [72/82] UnrealLightmass-Sockets.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Sockets\UnrealLightmass-Sockets.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Sockets\UnrealLightmass-Sockets.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [73/82] UnrealLightmass-Core.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Core\UnrealLightmass-Core.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Core\UnrealLightmass-Core.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [74/82] Module.CoreUObject.4_of_9.cpp
+    [75/82] UnrealLightmass-CoreUObject.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\CoreUObject\UnrealLightmass-CoreUObject.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\CoreUObject\UnrealLightmass-CoreUObject.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [76/82] UnrealLightmass-SwarmInterface.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\SwarmInterface\UnrealLightmass-SwarmInterface.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\SwarmInterface\UnrealLightmass-SwarmInterface.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [77/82] UnrealLightmass-Messaging.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Messaging\UnrealLightmass-Messaging.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Messaging\UnrealLightmass-Messaging.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [78/82] UnrealLightmass-UdpMessaging.dll
+       D:\ub\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealLightmass\Development\UdpMessaging\UnrealLightmass-UdpMessaging.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealLightmass\Development\UdpMessaging\UnrealLightmass-UdpMessaging.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [79/82] UnrealLightmass-CoreUObject.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\CoreUObject\UnrealLightmass-CoreUObject.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\CoreUObject\UnrealLightmass-CoreUObject.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [80/82] UnrealLightmass-Serialization.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Serialization\UnrealLightmass-Serialization.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealLightmass\Development\Serialization\UnrealLightmass-Serialization.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [81/82] UnrealLightmass.exe
+    [82/82] UnrealLightmass.target
+  Total time in Parallel executor: 142.24 seconds
+  Total execution time: 1793.36 seconds

@@ -1,0 +1,41 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\SynthBenchmark\Definitions.SynthBenchmark.h
+D:/ub/Engine/Source/Runtime/SynthBenchmark/Private/FractalBenchmark.cpp
+D:/ub/Engine/Source/Runtime/SynthBenchmark/Private/RayIntersectBenchmark.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+D:/ub/Engine/Source/Runtime/SynthBenchmark/Private/SynthBenchmarkPrivate.cpp
+D:\ub\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformSurvey.h
+D:\ub\Engine\Source\Runtime\SynthBenchmark\Public\SynthBenchmark.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHI.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+D:\ub\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\ub\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIResources.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\ub\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIContext.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\ub\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RendererInterface.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderUtils.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\PackedNormal.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+D:\ub\Engine\Source\Runtime\RenderCore\Public\VirtualTexturing.h

@@ -1,0 +1,14 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\EditorStyle\Definitions.EditorStyle.h
+D:/ub/Engine/Source/Editor/EditorStyle/Private/EditorFontGlyphs.cpp
+D:\ub\Engine\Source\Editor\EditorStyle\Public\EditorFontGlyphs.h
+D:/ub/Engine/Source/Editor/EditorStyle/Private/EditorStyleClasses.cpp
+D:\ub\Engine\Source\Editor\EditorStyle\Public\Classes/EditorStyleSettings.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\EditorStyle\EditorStyleSettings.generated.h
+D:/ub/Engine/Source/Editor/EditorStyle/Private/EditorStyleModule.cpp
+D:\ub\Engine\Source\Editor\EditorStyle\Public\Interfaces/IEditorStyleModule.h
+D:\ub\Engine\Source\Editor\EditorStyle\Private\SlateEditorStyle.h
+D:\ub\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+D:\ub\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+D:/ub/Engine/Source/Editor/EditorStyle/Private/EditorStyleSet.cpp
+D:\ub\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+D:/ub/Engine/Source/Editor/EditorStyle/Private/SlateEditorStyle.cpp

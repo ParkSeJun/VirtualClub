@@ -1,0 +1,12 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\SourceControl\Definitions.SourceControl.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/SourceControl/SourceControl.init.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/SourceControl/SourceControlHelpers.gen.cpp
+D:\ub\Engine\Source\Developer\SourceControl/Public/SourceControlHelpers.h
+D:\ub\Engine\Source\Developer\SourceControl\Public\ISourceControlRevision.h
+D:\ub\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+D:\ub\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+D:\ub\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\SourceControl\SourceControlHelpers.generated.h

@@ -1,0 +1,123 @@
+﻿  Creating makefile for UnrealPak (no existing makefile)
+  Parsing headers for UnrealPak
+    Running UnrealHeaderTool UnrealPak "D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\UnrealPak.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ub\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UnrealPak in 1.0506357 seconds
+  Building UnrealPak...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 80 actions with 8 processes...
+    [1/80] Default.rc2
+    [2/80] PCH.OodleDataCompressionFormat.cpp
+    [3/80] BuildSettings.cpp
+    [4/80] UnrealPak-BuildSettings.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\BuildSettings\UnrealPak-BuildSettings.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\BuildSettings\UnrealPak-BuildSettings.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [5/80] UnrealPak-BuildSettings.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\BuildSettings\UnrealPak-BuildSettings.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\BuildSettings\UnrealPak-BuildSettings.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [6/80] Module.TraceLog.cpp
+    [7/80] UnrealPak-TraceLog.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\TraceLog\UnrealPak-TraceLog.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\TraceLog\UnrealPak-TraceLog.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [8/80] UnrealPak-TraceLog.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\TraceLog\UnrealPak-TraceLog.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\TraceLog\UnrealPak-TraceLog.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [9/80] SharedPCH.Core.ShadowErrors.cpp
+    [10/80] PlatformCryptoTypes.cpp
+    [11/80] RSA.cpp
+    [12/80] OodleDataCompressionFormat.cpp
+    [13/80] Analytics.cpp
+    [14/80] Module.PlatformCryptoOpenSSL.cpp
+    [15/80] PCH.Core.cpp
+    [16/80] UnrealPak.cpp
+    [17/80] Module.SSL.cpp
+    [18/80] Module.Projects.cpp
+    [19/80] Module.PakFile.cpp
+    [20/80] PCH.CoreUObject.cpp
+    [21/80] Module.DerivedDataCache.cpp
+    [22/80] Module.PakFileUtilities.cpp
+    [23/80] Module.Core.4_of_15.cpp
+    [24/80] Module.Core.8_of_15.cpp
+    [25/80] Module.Core.2_of_15.cpp
+    [26/80] Module.Core.3_of_15.cpp
+    [27/80] Module.Core.15_of_15.cpp
+    [28/80] Module.Core.11_of_15.cpp
+    [29/80] Module.Core.13_of_15.cpp
+    [30/80] Module.Core.12_of_15.cpp
+    [31/80] Module.Core.14_of_15.cpp
+    [32/80] Module.Core.1_of_15.cpp
+    [33/80] Module.Core.10_of_15.cpp
+    [34/80] Module.CoreUObject.9_of_9.cpp
+    [35/80] Module.Core.7_of_15.cpp
+    [36/80] Module.Core.6_of_15.cpp
+    [37/80] Module.CoreUObject.gen.cpp
+    [38/80] Module.Core.9_of_15.cpp
+    [39/80] PlatformCrypto.cpp
+    [40/80] UnrealPak-PlatformCrypto.lib
+       D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCrypto\UnrealPak-PlatformCrypto.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCrypto\UnrealPak-PlatformCrypto.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [41/80] UnrealPak-OodleDataCompressionFormat.lib
+       D:\ub\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UnrealPak\Development\OodleDataCompressionFormat\UnrealPak-OodleDataCompressionFormat.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UnrealPak\Development\OodleDataCompressionFormat\UnrealPak-OodleDataCompressionFormat.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [42/80] UnrealPak.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\UnrealPak.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\UnrealPak.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [43/80] Module.CoreUObject.2_of_9.cpp
+    [44/80] Module.CoreUObject.6_of_9.cpp
+    [45/80] Module.CoreUObject.5_of_9.cpp
+    [46/80] UnrealPak-RSA.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\RSA\UnrealPak-RSA.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\RSA\UnrealPak-RSA.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [47/80] UnrealPak-Projects.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Projects\UnrealPak-Projects.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Projects\UnrealPak-Projects.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [48/80] UnrealPak-PakFile.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFile\UnrealPak-PakFile.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFile\UnrealPak-PakFile.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [49/80] Module.CoreUObject.3_of_9.cpp
+    [50/80] UnrealPak-PlatformCryptoTypes.lib
+       D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoTypes\UnrealPak-PlatformCryptoTypes.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoTypes\UnrealPak-PlatformCryptoTypes.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [51/80] UnrealPak-Analytics.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Analytics\UnrealPak-Analytics.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Analytics\UnrealPak-Analytics.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [52/80] UnrealPak-SSL.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\SSL\UnrealPak-SSL.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\SSL\UnrealPak-SSL.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [53/80] UnrealPak-PakFileUtilities.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFileUtilities\UnrealPak-PakFileUtilities.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFileUtilities\UnrealPak-PakFileUtilities.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [54/80] Module.CoreUObject.1_of_9.cpp
+    [55/80] UnrealPak-DerivedDataCache.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\DerivedDataCache\UnrealPak-DerivedDataCache.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\DerivedDataCache\UnrealPak-DerivedDataCache.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [56/80] UnrealPak-PlatformCryptoOpenSSL.lib
+       D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoOpenSSL\UnrealPak-PlatformCryptoOpenSSL.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoOpenSSL\UnrealPak-PlatformCryptoOpenSSL.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [57/80] Module.Json.cpp
+    [58/80] UnrealPak-Json.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Json\UnrealPak-Json.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Json\UnrealPak-Json.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [59/80] Module.Core.5_of_15.cpp
+    [60/80] UnrealPak-Core.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Core\UnrealPak-Core.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Core\UnrealPak-Core.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [61/80] Module.CoreUObject.8_of_9.cpp
+    [62/80] UnrealPak-RSA.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\RSA\UnrealPak-RSA.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\RSA\UnrealPak-RSA.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [63/80] UnrealPak-PlatformCryptoTypes.dll
+       D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoTypes\UnrealPak-PlatformCryptoTypes.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoTypes\UnrealPak-PlatformCryptoTypes.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [64/80] UnrealPak-Projects.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Projects\UnrealPak-Projects.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Projects\UnrealPak-Projects.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [65/80] UnrealPak-PakFile.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFile\UnrealPak-PakFile.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFile\UnrealPak-PakFile.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [66/80] UnrealPak-Core.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Core\UnrealPak-Core.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Core\UnrealPak-Core.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [67/80] UnrealPak-SSL.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\SSL\UnrealPak-SSL.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\SSL\UnrealPak-SSL.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [68/80] UnrealPak-Analytics.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Analytics\UnrealPak-Analytics.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Analytics\UnrealPak-Analytics.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [69/80] UnrealPak.exe
+    [70/80] UnrealPak-Json.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Json\UnrealPak-Json.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\Json\UnrealPak-Json.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [71/80] UnrealPak-PlatformCrypto.dll
+       D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCrypto\UnrealPak-PlatformCrypto.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCrypto\UnrealPak-PlatformCrypto.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [72/80] UnrealPak-PlatformCryptoOpenSSL.dll
+       D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoOpenSSL\UnrealPak-PlatformCryptoOpenSSL.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UnrealPak\Development\PlatformCryptoOpenSSL\UnrealPak-PlatformCryptoOpenSSL.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [73/80] UnrealPak-DerivedDataCache.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\DerivedDataCache\UnrealPak-DerivedDataCache.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\DerivedDataCache\UnrealPak-DerivedDataCache.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [74/80] UnrealPak-PakFileUtilities.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFileUtilities\UnrealPak-PakFileUtilities.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\PakFileUtilities\UnrealPak-PakFileUtilities.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [75/80] Module.CoreUObject.7_of_9.cpp
+    [76/80] Module.CoreUObject.4_of_9.cpp
+    [77/80] UnrealPak-CoreUObject.lib
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\CoreUObject\UnrealPak-CoreUObject.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\CoreUObject\UnrealPak-CoreUObject.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [78/80] UnrealPak-CoreUObject.dll
+       D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\CoreUObject\UnrealPak-CoreUObject.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Intermediate\Build\Win64\UnrealPak\Development\CoreUObject\UnrealPak-CoreUObject.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [79/80] UnrealPak-OodleDataCompressionFormat.dll
+       D:\ub\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UnrealPak\Development\OodleDataCompressionFormat\UnrealPak-OodleDataCompressionFormat.suppressed.lib 占쏙옙占싱브러占쏙옙 占쏙옙 D:\ub\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UnrealPak\Development\OodleDataCompressionFormat\UnrealPak-OodleDataCompressionFormat.suppressed.exp 占쏙옙체占쏙옙 占쏙옙占쏙옙占싹곤옙 占쌍쏙옙占싹댐옙.
+    [80/80] UnrealPak.target
+  Total time in Parallel executor: 129.35 seconds
+  Total execution time: 2108.02 seconds

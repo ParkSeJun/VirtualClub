@@ -1,0 +1,79 @@
+D:/ub/Engine/Source/Runtime/CoreUObject/Private/Serialization/AsyncLoading.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoading.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncPackage.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/AsyncPackageLoader.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:\ub\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreRedirects.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/DeferredMessageLog.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoadingThread.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\Serialization/LoadTimeTracePrivate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/LoadTimeTrace.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Misc/ExclusiveLoadPackageTimeTracker.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/LoadTimeTracker.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/ExceptionHandling.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoadingPrivate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemStats.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileOpenLogWrapper.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\UObject/GarbageCollectionInternal.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\UObject/GCScopeLock.h
+D:/ub/Engine/Source/Runtime/CoreUObject/Private/Serialization/AsyncLoading2.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/AsyncLoading2.h
+D:\ub\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+D:\ub\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:\ub\Engine\Source\Runtime\Core\Public\UObject/NameBatchSerialization.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\UObject/UObjectArchetypeInternal.h
+D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CountersTrace.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\Serialization/UnversionedPropertySerialization.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Private\Serialization/Zenaphore.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+D:\ub\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataCommon.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkData2.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataBuffer.h
+D:\ub\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+D:\ub\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectClusters.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Fork.h

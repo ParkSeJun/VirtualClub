@@ -1,0 +1,179 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Paper2D\Definitions.Paper2D.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/GroupedSpriteSceneProxy.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\GroupedSpriteSceneProxy.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\PaperRenderSceneProxy.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\SpriteDrawCall.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperSprite.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\SpriteEditorOnlyTypes.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\SpriteEditorOnlyTypes.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Slate/SlateTextureAtlasInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SlateTextureAtlasInterface.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperSprite.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\SpriteDrawCall.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Public\Paper2DModule.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\PaperSpriteVertexBuffer.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperGroupedSpriteComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperGroupedSpriteComponent.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/Paper2DModule.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\Paper2DPrivate.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperCharacter.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\CharacterMovementReplication.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\RootMotionSource.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\Character.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperCharacter.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\ShapeComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\CapsuleComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\NavigationAvoidanceTypes.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\RVOAvoidanceInterface.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\MovementComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\NavMovementComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\PawnMovementComponent.generated.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\NetworkPredictionInterface.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\CharacterMovementComponent.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperFlipbookComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperFlipbookComponent.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperCustomVersion.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\PaperCustomVersion.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperFlipbook.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperFlipbook.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperFlipbook.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperFlipbookActor.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperFlipbookActor.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperFlipbookActor.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperFlipbookComponent.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\PaperFlipbookSceneProxy.h
+D:\ub\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/MapErrors.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Misc/UObjectToken.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperFlipbookSceneProxy.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperGroupedSpriteActor.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperGroupedSpriteActor.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperGroupedSpriteActor.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperGroupedSpriteComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Public\AI/NavigationSystemHelpers.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+D:\ub\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+D:\ub\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
+D:\ub\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperRenderSceneProxy.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperRuntimeSettings.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperRuntimeSettings.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperRuntimeSettings.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperSprite.cpp
+D:\ub\Engine\Source\Runtime\Engine\Public\GeomTools.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperSpriteComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperSpriteComponent.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperSpriteActor.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperSpriteActor.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperSpriteActor.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperSpriteAtlas.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperSpriteAtlas.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperSpriteAtlas.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperSpriteBlueprintLibrary.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperSpriteBlueprintLibrary.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperSpriteBlueprintLibrary.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperSpriteComponent.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\PaperSpriteSceneProxy.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperSpriteSceneProxy.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperSpriteVertexBuffer.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperTileLayer.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTileLayer.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTileLayer.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTileMap.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTileMap.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTileSet.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\IntMargin.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\IntMargin.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTileSet.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperTileMap.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\AssetImportData.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperTileMapActor.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTileMapActor.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTileMapActor.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTileMapComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTileMapComponent.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperTileMapComponent.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Private\PaperTileMapRenderSceneProxy.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperTileMapRenderSceneProxy.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/PaperTileSet.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/Rendering/MaterialExpressionSpriteTextureSampler.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Public\MaterialExpressionSpriteTextureSampler.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter2D.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\MaterialExpressionTextureSampleParameter2D.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\MaterialExpressionSpriteTextureSampler.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/Terrain/PaperTerrainActor.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTerrainActor.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTerrainActor.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTerrainComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTerrainComponent.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTerrainSplineComponent.h
+D:\ub\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SplineComponent.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTerrainSplineComponent.generated.h
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperTerrainMaterial.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\PaperTerrainMaterial.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/Terrain/PaperTerrainComponent.cpp
+D:\ub\Engine\Source\Runtime\Engine\Classes\Engine/Polys.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\Polys.generated.h
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/Terrain/PaperTerrainMaterial.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/Terrain/PaperTerrainSplineComponent.cpp
+D:/ub/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/TileMapBlueprintLibrary.cpp
+D:\ub\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\TileMapBlueprintLibrary.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Paper2D\TileMapBlueprintLibrary.generated.h

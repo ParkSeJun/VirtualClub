@@ -1,0 +1,87 @@
+﻿  Creating makefile for CrashReportClientEditor (no existing makefile)
+  Parsing headers for CrashReportClientEditor
+    Running UnrealHeaderTool CrashReportClientEditor "D:\ub\Engine\Intermediate\Build\Win64\CrashReportClientEditor\Development\CrashReportClientEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ub\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for CrashReportClientEditor in 3.3023308 seconds
+  Building CrashReportClientEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 78 actions with 8 processes...
+    [1/78] BuildSettings.cpp
+    [2/78] PCH.ImageWrapper.cpp
+    [3/78] Default.rc2
+    [4/78] Module.TraceLog.cpp
+    [5/78] SharedPCH.Core.ShadowErrors.cpp
+    [6/78] SharedPCH.CoreUObject.ShadowErrors.cpp
+    [7/78] PCH.Core.cpp
+    [8/78] Module.ImageWrapper.gen.cpp
+    [9/78] Module.CrashDebugHelper.cpp
+    [10/78] Module.Sockets.cpp
+    [11/78] Module.InputCore.gen.cpp
+    [12/78] PCH.CoreUObject.cpp
+    [13/78] Module.ImageWrapper.cpp
+    [14/78] Module.XmlParser.cpp
+    [15/78] Module.AssetRegistry.gen.cpp
+    [16/78] Analytics.cpp
+    [17/78] Module.InputCore.cpp
+    [18/78] Module.HTTP.cpp
+    [19/78] Module.SSL.cpp
+    [20/78] SharedPCH.Slate.ShadowErrors.cpp
+    [21/78] NetCommonModule.cpp
+    [22/78] Module.StandaloneRenderer.cpp
+    [23/78] Module.SlateCore.3_of_3.cpp
+    [24/78] Module.Slate.gen.cpp
+    [25/78] Module.Slate.5_of_5.cpp
+    [26/78] Module.Slate.1_of_5.cpp
+    [27/78] Module.MessageLog.cpp
+    [28/78] Module.EditorStyle.cpp
+    [29/78] Module.SlateCore.1_of_3.cpp
+    [30/78] Module.CrashReportClientEditor.cpp
+    [31/78] Module.ApplicationCore.cpp
+    [32/78] Module.DesktopPlatform.cpp
+    [33/78] Module.Messaging.cpp
+    [34/78] Module.SlateCore.2_of_3.cpp
+    [35/78] Module.LauncherPlatform.cpp
+    [36/78] RSA.cpp
+    [37/78] Module.Projects.cpp
+    [38/78] Module.SlateReflector.gen.cpp
+    [39/78] Module.Json.cpp
+    [40/78] Module.EditorAnalyticsSession.cpp
+    [41/78] Module.SlateReflector.cpp
+    [42/78] Module.Slate.2_of_5.cpp
+    [43/78] Module.Slate.3_of_5.cpp
+    [44/78] Module.PakFile.cpp
+    [45/78] Module.SlateCore.gen.cpp
+    [46/78] Module.Core.7_of_15.cpp
+    [47/78] Module.CrashReportCore.cpp
+    [48/78] Module.Core.3_of_15.cpp
+    [49/78] Module.CoreUObject.gen.cpp
+    [50/78] Module.Core.6_of_15.cpp
+    [51/78] Module.Core.15_of_15.cpp
+    [52/78] Module.AssetRegistry.cpp
+    [53/78] Module.CoreUObject.5_of_9.cpp
+    [54/78] Module.Slate.4_of_5.cpp
+    [55/78] Module.CoreUObject.2_of_9.cpp
+    [56/78] Module.Core.4_of_15.cpp
+    [57/78] Module.Core.8_of_15.cpp
+    [58/78] Module.Core.10_of_15.cpp
+    [59/78] Module.Core.14_of_15.cpp
+    [60/78] Module.Core.9_of_15.cpp
+    [61/78] Module.CoreUObject.7_of_9.cpp
+    [62/78] Module.Core.1_of_15.cpp
+    [63/78] Module.Core.12_of_15.cpp
+    [64/78] Module.CoreUObject.9_of_9.cpp
+    [65/78] Module.Core.11_of_15.cpp
+    [66/78] Module.CoreUObject.1_of_9.cpp
+    [67/78] Module.EditorStyle.gen.cpp
+    [68/78] Module.CoreUObject.8_of_9.cpp
+    [69/78] Module.Settings.cpp
+    [70/78] Module.AnalyticsET.cpp
+    [71/78] Module.Core.2_of_15.cpp
+    [72/78] Module.CoreUObject.6_of_9.cpp
+    [73/78] Module.Core.5_of_15.cpp
+    [74/78] Module.Core.13_of_15.cpp
+    [75/78] Module.CoreUObject.3_of_9.cpp
+    [76/78] Module.CoreUObject.4_of_9.cpp
+    [77/78] CrashReportClientEditor-Win64-Development.exe
+icu.lib(numfmt.obj) : fatal error LNK1235: COFF 占쏙옙호 占쏙옙占싱븝옙占쏙옙 占쌌삼옙퓸占쏙옙킬占?占쌩몌옙占실억옙占쏙옙占싹댐옙.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: "D:\ub\Engine\Build\BatchFiles\Build.bat CrashReportClientEditor Win64 Development -WaitMutex -FromMsBuild" 명령이 종료되었습니다(코드: 6).

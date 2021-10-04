@@ -1,0 +1,10 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\MagicLeapPrivileges\Definitions.MagicLeapPrivileges.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/MagicLeapPrivileges/MagicLeapPrivileges.init.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/MagicLeapPrivileges/MagicLeapPrivilegesFunctionLibrary.gen.cpp
+D:\ub\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges/Public/MagicLeapPrivilegesFunctionLibrary.h
+D:\ub\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\MagicLeapPrivilegeTypes.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\MagicLeapPrivileges\MagicLeapPrivilegeTypes.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\MagicLeapPrivileges\MagicLeapPrivilegesFunctionLibrary.generated.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/MagicLeapPrivileges/MagicLeapPrivilegeTypes.gen.cpp

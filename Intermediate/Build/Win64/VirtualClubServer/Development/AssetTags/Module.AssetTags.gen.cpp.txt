@@ -1,0 +1,7 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\AssetTags\Definitions.AssetTags.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/AssetTags/AssetTags.init.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/AssetTags/AssetTagsSubsystem.gen.cpp
+D:\ub\Engine\Plugins\Runtime\AssetTags\Source\AssetTags/Public/AssetTagsSubsystem.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\AssetTags\AssetTagsSubsystem.generated.h

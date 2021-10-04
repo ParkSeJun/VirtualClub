@@ -1,0 +1,246 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\LiveCoding\Definitions.LiveCoding.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_API.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_API.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LPP_API.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientStartupThread.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Thread.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Process.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_RunMode.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_CriticalSection.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Platform.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Preprocessor.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_SyncPoint.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Restart.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Logging.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Memory.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_ClientCommandActions.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientCommandActions.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Commands.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\../../../LiveCodingServer/Private/External/LC_Hook.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientUserCommandThread.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Semaphore.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_DuplexPipe.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Executable.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_PointerUtil.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_MemoryFile.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\xxhash.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Event.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_ClientCommandThread.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientCommandThread.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_CommandMap.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_DuplexPipeClient.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_HeartBeat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\inttypes.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_ClientStartupThread.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_StringUtil.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_NamedSharedMemory.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_InterprocessMutex.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_PrimitiveNames.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Environment.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_MemoryStream.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_ClientUserCommandThread.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_set
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_CommandMap.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_CriticalSection.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_DuplexPipe.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_DuplexPipeClient.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_EntryPoint.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_EntryPoint.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Environment.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Event.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Executable.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_HeartBeat.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_UtcTime.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_InterprocessMutex.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Logging.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingLog.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Memory.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_MemoryFile.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_MemoryStream.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_NamedSharedMemory.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_PrimitiveNames.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Process.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_VirtualMemory.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_WindowsInternals.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_WindowsInternalFunctions.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Psapi.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Restart.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Semaphore.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Shortcut.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Shortcut.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_StringUtil.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_SyncPoint.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_Thread.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_UtcTime.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_VirtualMemory.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/External/LC_WindowsInternalFunctions.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/LiveCodingLog.cpp
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/LiveCodingModule.cpp
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingModule.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Public\ILiveCodingModule.h
+D:\ub\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingSettings.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\LiveCoding\LiveCodingSettings.generated.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\ub\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:\ub\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+D:\ub\Engine\Source\Developer\Settings\Public\ISettingsSection.h
+D:/ub/Engine/Source/Developer/Windows/LiveCoding/Private/LiveCodingSettings.cpp

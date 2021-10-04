@@ -1,0 +1,8 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\SlateReflector\Definitions.SlateReflector.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/SlateReflector/SlateReflector.init.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Inc/SlateReflector/WidgetSnapshotMessages.gen.cpp
+D:\ub\Engine\Source\Developer\SlateReflector/Private/WidgetSnapshotMessages.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\SlateReflector\WidgetSnapshotMessages.generated.h

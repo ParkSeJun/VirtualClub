@@ -1,0 +1,84 @@
+﻿  Creating makefile for HeadlessChaos (no existing makefile)
+  Building HeadlessChaos...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 77 actions with 8 processes...
+    [1/77] Default.rc2
+    [2/77] BuildSettings.cpp
+    [3/77] Module.TraceLog.cpp
+    [4/77] SharedPCH.Core.ShadowErrors.cpp
+    [5/77] PCH.Core.cpp
+    [6/77] ChaosCoreModule.cpp
+    [7/77] SharedPCH.CoreUObject.ShadowErrors.cpp
+    [8/77] Module.GeForceNOWWrapper.cpp
+    [9/77] PCH.CoreUObject.cpp
+    [10/77] Module.GeometricObjects.cpp
+    [11/77] Module.Json.cpp
+    [12/77] Module.RHI.cpp
+    [13/77] Module.RenderCore.2_of_3.cpp
+    [14/77] cell.cc
+    [15/77] Module.RenderCore.1_of_3.cpp
+    [16/77] c_loops.cc
+    [17/77] v_compute.cc
+    [18/77] Module.Chaos.gen.cpp
+    [19/77] Module.Voronoi.cpp
+    [20/77] v_base.cc
+    [21/77] pre_container.cc
+    [22/77] Module.DeveloperSettings.cpp
+    [23/77] Module.SlateCore.gen.cpp
+    [24/77] Module.SlateCore.3_of_3.cpp
+    [25/77] Module.DeveloperSettings.gen.cpp
+    [26/77] unitcell.cc
+    [27/77] wall.cc
+    [28/77] Module.SlateCore.2_of_3.cpp
+    [29/77] Module.HeadlessChaos.5_of_5.cpp
+    [30/77] Module.ChaosVehiclesCore.cpp
+    [31/77] Module.Chaos.3_of_5.cpp
+    [32/77] container_prd.cc
+    [33/77] Module.InputCore.gen.cpp
+    [34/77] Module.InputCore.cpp
+    [35/77] Module.Chaos.5_of_5.cpp
+    [36/77] Module.Chaos.2_of_5.cpp
+    [37/77] Module.ApplicationCore.cpp
+    [38/77] Module.HeadlessChaos.4_of_5.cpp
+D:/ub/Engine/Source/Programs/HeadlessChaos/Private/HeadlessChaosTestPhysicsScene.cpp(1377): error C2664: 'void FChaosEngineInterface::CreateActor(const FActorCreationParams &,FPhysicsActorHandle &)': 占싸쇽옙 2占쏙옙(占쏙옙) 'Chaos::TGeometryParticle<float,3> *'占쏙옙占쏙옙 'FPhysicsActorHandle &'(占쏙옙)占쏙옙 占쏙옙환占쏙옙 占쏙옙 占쏙옙占쏙옙占싹댐옙.
+    D:\ub\Engine\Source\Runtime\PhysicsCore\Public\Chaos/ChaosEngineInterface.h(333): note: 'FChaosEngineInterface::CreateActor' 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占싹십시울옙.
+D:/ub/Engine/Source/Programs/HeadlessChaos/Private/HeadlessChaosTestPhysicsScene.cpp(1395): error C2664: 'void FChaosScene::AddActorsToScene_AssumesLocked(TArray<FSingleParticlePhysicsProxy *,FDefaultAllocator> &,const bool)': 占싸쇽옙 1占쏙옙(占쏙옙) 'TArray<Chaos::FGeometryParticle *,FDefaultAllocator>'占쏙옙占쏙옙 'TArray<FSingleParticlePhysicsProxy *,FDefaultAllocator> &'(占쏙옙)占쏙옙 占쏙옙환占쏙옙 占쏙옙 占쏙옙占쏙옙占싹댐옙.
+    D:\ub\Engine\Source\Runtime\PhysicsCore\Public\Chaos/ChaosScene.h(108): note: 'FChaosScene::AddActorsToScene_AssumesLocked' 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占싹십시울옙.
+    [39/77] Module.SlateCore.1_of_3.cpp
+    [40/77] Module.RenderCore.3_of_3.cpp
+    [41/77] container.cc
+    [42/77] Module.MeshUtilitiesCommon.cpp
+    [43/77] Module.PhysicsCore.gen.cpp
+    [44/77] Module.HeadlessChaos.1_of_5.cpp
+    [45/77] Module.CoreUObject.1_of_9.cpp
+    [46/77] Module.Core.14_of_15.cpp
+    [47/77] Module.CoreUObject.8_of_9.cpp
+    [48/77] Module.CoreUObject.2_of_9.cpp
+    [49/77] Module.Core.3_of_15.cpp
+    [50/77] Module.CoreUObject.3_of_9.cpp
+    [51/77] Module.Core.6_of_15.cpp
+    [52/77] Module.Core.5_of_15.cpp
+    [53/77] Module.Core.7_of_15.cpp
+    [54/77] Module.Core.11_of_15.cpp
+    [55/77] Module.Core.4_of_15.cpp
+    [56/77] Module.HeadlessChaos.2_of_5.cpp
+    [57/77] Module.Core.9_of_15.cpp
+    [58/77] Module.Core.12_of_15.cpp
+    [59/77] Module.Chaos.1_of_5.cpp
+    [60/77] Module.Core.13_of_15.cpp
+    [61/77] Module.PhysicsCore.cpp
+    [62/77] Module.Core.1_of_15.cpp
+    [63/77] Module.CoreUObject.9_of_9.cpp
+    [64/77] Module.HeadlessChaos.3_of_5.cpp
+    [65/77] Module.Core.2_of_15.cpp
+    [66/77] Module.CoreUObject.5_of_9.cpp
+    [67/77] Module.CoreUObject.7_of_9.cpp
+    [68/77] Module.CoreUObject.6_of_9.cpp
+    [69/77] Module.CoreUObject.gen.cpp
+    [70/77] Module.Projects.cpp
+    [71/77] Module.Core.10_of_15.cpp
+    [72/77] Module.Core.15_of_15.cpp
+    [73/77] Module.Core.8_of_15.cpp
+    [74/77] Module.CoreUObject.4_of_9.cpp
+    [75/77] Module.Chaos.4_of_5.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: "D:\ub\Engine\Build\BatchFiles\Build.bat HeadlessChaos Win64 Development -WaitMutex -FromMsBuild" 명령이 종료되었습니다(코드: 6).

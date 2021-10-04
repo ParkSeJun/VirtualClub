@@ -1,0 +1,13 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioAnalyzer\Definitions.AudioAnalyzer.h
+D:/ub/Engine/Source/Runtime/AudioAnalyzer/Private/AudioAnalyzerModule.cpp
+D:\ub\Engine\Source\Runtime\AudioAnalyzer\Public\AudioAnalyzerModule.h
+D:/ub/Engine/Source/Runtime/AudioAnalyzer/Private/AudioAnalyzerNRT.cpp
+D:\ub\Engine\Source\Runtime\AudioAnalyzer\Classes\AudioAnalyzerNRT.h
+D:\ub\Engine\Source\Runtime\AudioAnalyzer\Public\IAudioAnalyzerNRTInterface.h
+D:\ub\Engine\Source\Runtime\AudioAnalyzer\Classes\AudioAnalyzerAsset.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioAnalyzer\AudioAnalyzerAsset.generated.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioAnalyzer\AudioAnalyzerNRT.generated.h
+D:\ub\Engine\Source\Runtime\AudioAnalyzer\Public\AudioAnalyzerNRTFacade.h
+D:\ub\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+D:/ub/Engine/Source/Runtime/AudioAnalyzer/Private/AudioAnalyzerNRTFacade.cpp
+D:/ub/Engine/Source/Runtime/AudioAnalyzer/Private/IAudioAnalyzerNRTInterface.cpp

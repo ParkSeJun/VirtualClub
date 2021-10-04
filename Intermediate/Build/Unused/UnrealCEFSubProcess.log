@@ -1,0 +1,33 @@
+﻿  Creating makefile for UnrealCEFSubProcess (no existing makefile)
+  Building UnrealCEFSubProcess...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 27 actions with 8 processes...
+    [1/27] UnrealCEFSubProcess.rc
+    [2/27] BuildSettings.cpp
+    [3/27] Module.TraceLog.cpp
+    [4/27] SharedPCH.Core.ShadowErrors.cpp
+    [5/27] CEF3Utils.cpp
+    [6/27] PCH.Core.cpp
+    [7/27] Module.Projects.cpp
+    [8/27] Module.Core.7_of_15.cpp
+    [9/27] Module.UnrealCEFSubProcess.cpp
+    [10/27] Module.Core.2_of_15.cpp
+    [11/27] Module.Core.3_of_15.cpp
+    [12/27] Module.ApplicationCore.cpp
+    [13/27] Module.Json.cpp
+    [14/27] Module.Core.15_of_15.cpp
+    [15/27] Module.Core.12_of_15.cpp
+    [16/27] Module.Core.10_of_15.cpp
+    [17/27] Module.Core.4_of_15.cpp
+    [18/27] Module.Core.6_of_15.cpp
+    [19/27] Module.Core.5_of_15.cpp
+    [20/27] Module.Core.14_of_15.cpp
+    [21/27] Module.Core.1_of_15.cpp
+    [22/27] Module.Core.11_of_15.cpp
+    [23/27] Module.Core.13_of_15.cpp
+    [24/27] Module.Core.8_of_15.cpp
+    [25/27] Module.Core.9_of_15.cpp
+    [26/27] UnrealCEFSubProcess-Win64-Development.exe
+    [27/27] UnrealCEFSubProcess.target
+  Total time in Parallel executor: 62.18 seconds
+  Total execution time: 1398.46 seconds

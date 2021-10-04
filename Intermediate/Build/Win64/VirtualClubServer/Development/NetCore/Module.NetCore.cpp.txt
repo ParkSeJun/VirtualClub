@@ -1,0 +1,78 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\NetCore\Definitions.NetCore.h
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/Analytics/NetAnalytics.cpp
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Analytics/NetAnalytics.h
+D:\ub\Engine\Source\Runtime\Net\Core\Classes\Net/Core/Analytics/NetAnalyticsAggregatorConfig.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Inc\NetCore\NetAnalyticsAggregatorConfig.generated.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\ub\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:\ub\Engine\Source\Runtime\Net\Core\Private\Net/Core/Misc/NetCoreLog.h
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/Analytics/NetAnalyticsAggregatorConfig.cpp
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/Misc/DDoSDetection.cpp
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Misc/DDoSDetection.h
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/Misc/PacketAudit.cpp
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Misc/PacketAudit.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+D:\ub\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/Misc/ResizableCircularQueueTests.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\ub\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Misc/ResizableCircularQueue.h
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/NetCoreModule.cpp
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/PushModel/PushModel.cpp
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net\Core\PushModel\PushModelMacros.h
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/Trace/NetTraceInternal.cpp
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Trace/Private/NetTraceInternal.h
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Trace/Config.h
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Trace/NetDebugName.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+D:\ub\Engine\Source\Runtime\Net\Core\Private\Net/Core/Trace/Reporters/NetTraceReporter.h
+D:\ub\Engine\Source\Runtime\Net\Core\Public\Net/Core/Trace/NetTrace.h
+D:/ub/Engine/Source/Runtime/Net/Core/Private/Net/Core/Trace/Reporters/NetTraceReporter.cpp
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h

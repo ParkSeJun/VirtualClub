@@ -1,0 +1,15 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\AudioCaptureCore\Definitions.AudioCaptureCore.h
+D:/ub/Engine/Source/Runtime/AudioCaptureCore/Private/AudioCaptureCore.cpp
+D:\ub\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCore.h
+D:\ub\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureDeviceInterface.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
+D:\ub\Engine\Source\Runtime\AudioMixerCore/Public/AudioDefines.h
+D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+D:\ub\Engine\Source\Runtime\AudioCaptureCore\Private\AudioCaptureInternal.h
+D:\ub\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCoreLog.h
+D:\ub\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:/ub/Engine/Source/Runtime/AudioCaptureCore/Private/AudioCaptureCoreModule.cpp
+D:\ub\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCoreModule.h

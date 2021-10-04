@@ -1,0 +1,4 @@
+C:/VirtualClub/Intermediate/Build/Win64/VirtualClubServer/Inc/Engine/PrimitiveComponent.gen.cpp
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h

@@ -1,0 +1,139 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\GeometricObjects\Definitions.GeometricObjects.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/CompGeom/PolygonTriangulation.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\CompGeom/PolygonTriangulation.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MathUtil.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\IndexTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\TriangleTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorUtil.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/DiscMeshGenerator.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/DiscMeshGenerator.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators\MeshShapeGenerator.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/FlatTriangulationMeshGenerator.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/FlatTriangulationMeshGenerator.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\BoxTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\TransformTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Quaternion.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MatrixTypes.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/MarchingCubes.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/MarchingCubes.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/DenseGrid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IndexUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/DynamicVector.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/PlanarPolygonMeshGenerator.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/PlanarPolygonMeshGenerator.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Polygon2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\SegmentTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\LineTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrSegment2Segment2.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/Intersector1.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntersectionUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrLine2Line2.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/RectangleMeshGenerator.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/RectangleMeshGenerator.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/SweepGenerator.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/SweepGenerator.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\FrameTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\RayTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Curve/CurveUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/ProgressCancel.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/GeometricObjectsModule.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\GeometricObjectsModule.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/IndexUtil.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Intersection/ContainmentQueries3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/ContainmentQueries3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\SphereTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\CapsuleTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\OrientedBoxTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\HalfspaceTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntersectionQueries3.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Intersection/IntersectionQueries3.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/MathUtil.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Parameterization/UVPacking.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Parameterization/UVPacking.h
+D:\ub\Engine\Source\Runtime\MeshUtilitiesCommon\Public\DisjointSet.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\ub\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\ub\Engine\Source\Runtime\MeshUtilitiesCommon\Public\Allocator2D.h
+D:\ub\Engine\Source\Runtime\MeshUtilitiesCommon\Public\MeshUtilitiesCommon.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Spatial/GeometrySet3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/GeometrySet3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Polyline3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Distance/DistRay3Segment3.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Spatial/PointSetHashTable.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/PointSetHashTable.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\PointSetAdapter.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/SparseGrid3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/GridIndexing3.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Spatial/SparseDynamicOctree3.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/SparseDynamicOctree3.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\GeometryTypes.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/SmallListSet.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/RefCountVector.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IteratorUtil.h
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrRay3AxisAlignedBox3.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Tests/TransformTypes.spec.cpp
+D:\ub\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+D:\ub\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Tests/VectorTypes.spec.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/ColorConstants.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/ColorConstants.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/RevolveUtil.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/RevolveUtil.h
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/SmallListSet.cpp
+D:/ub/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/UniqueIndexSet.cpp
+D:\ub\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/UniqueIndexSet.h

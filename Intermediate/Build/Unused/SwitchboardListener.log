@@ -1,0 +1,50 @@
+﻿  Creating makefile for SwitchboardListener (no existing makefile)
+  Building SwitchboardListener...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 44 actions with 8 processes...
+    [1/44] Resource.rc
+    [2/44] BuildSettings.cpp
+    [3/44] Module.TraceLog.cpp
+    [4/44] SharedPCH.Core.ShadowErrors.cpp
+    [5/44] NetCommonModule.cpp
+    [6/44] PCH.Core.cpp
+    [7/44] SharedPCH.CoreUObject.ShadowErrors.cpp
+    [8/44] Module.Networking.cpp
+    [9/44] Module.Sockets.cpp
+    [10/44] Module.JsonUtilities.gen.cpp
+    [11/44] PCH.CoreUObject.cpp
+    [12/44] Module.Projects.cpp
+    [13/44] Module.SwitchboardListener.gen.cpp
+    [14/44] Module.Core.4_of_15.cpp
+    [15/44] Module.ApplicationCore.cpp
+    [16/44] Module.Json.cpp
+    [17/44] Module.CoreUObject.gen.cpp
+    [18/44] Module.Core.2_of_15.cpp
+    [19/44] Module.CoreUObject.6_of_9.cpp
+    [20/44] Module.Core.5_of_15.cpp
+    [21/44] Module.SwitchboardListener.cpp
+    [22/44] Module.CoreUObject.2_of_9.cpp
+    [23/44] Module.Core.6_of_15.cpp
+    [24/44] Module.Core.7_of_15.cpp
+    [25/44] Module.CoreUObject.7_of_9.cpp
+    [26/44] Module.CoreUObject.9_of_9.cpp
+    [27/44] Module.Core.8_of_15.cpp
+    [28/44] Module.Core.1_of_15.cpp
+    [29/44] Module.Core.10_of_15.cpp
+    [30/44] Module.CoreUObject.3_of_9.cpp
+    [31/44] Module.Core.9_of_15.cpp
+    [32/44] Module.Core.11_of_15.cpp
+    [33/44] Module.Core.12_of_15.cpp
+    [34/44] Module.Core.14_of_15.cpp
+    [35/44] Module.Core.15_of_15.cpp
+    [36/44] Module.Core.13_of_15.cpp
+    [37/44] Module.JsonUtilities.cpp
+    [38/44] Module.CoreUObject.5_of_9.cpp
+    [39/44] Module.CoreUObject.1_of_9.cpp
+    [40/44] Module.Core.3_of_15.cpp
+    [41/44] Module.CoreUObject.4_of_9.cpp
+    [42/44] Module.CoreUObject.8_of_9.cpp
+    [43/44] SwitchboardListener.exe
+    [44/44] SwitchboardListener.target
+  Total time in Parallel executor: 135.51 seconds
+  Total execution time: 1882.21 seconds

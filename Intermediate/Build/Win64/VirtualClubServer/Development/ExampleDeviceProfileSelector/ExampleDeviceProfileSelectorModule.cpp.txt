@@ -1,0 +1,3 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\ExampleDeviceProfileSelector\Definitions.ExampleDeviceProfileSelector.h
+D:\ub\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Source\ExampleDeviceProfileSelector\Private\ExampleDeviceProfileSelectorModule.h
+D:\ub\Engine\Source\Runtime\Engine\Public\IDeviceProfileSelectorModule.h

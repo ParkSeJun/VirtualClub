@@ -1,0 +1,2 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\VirtualClub\Definitions.VirtualClub.h
+C:\VirtualClub\Source\VirtualClub\VirtualClub.h

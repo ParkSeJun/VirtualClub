@@ -1,0 +1,14 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AssetTags\Definitions.AssetTags.h
+D:/ub/Engine/Plugins/Runtime/AssetTags/Source/AssetTags/Private/AssetTagsModule.cpp
+D:/ub/Engine/Plugins/Runtime/AssetTags/Source/AssetTags/Private/AssetTagsSubsystem.cpp
+D:\ub\Engine\Plugins\Runtime\AssetTags\Source\AssetTags\Public\AssetTagsSubsystem.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AssetTags\AssetTagsSubsystem.generated.h
+D:\ub\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+D:\ub\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\ub\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\ub\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryState.h
+D:\ub\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryState.h
+D:\ub\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\ub\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h

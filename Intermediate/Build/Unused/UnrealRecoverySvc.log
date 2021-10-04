@@ -1,0 +1,70 @@
+﻿  Creating makefile for UnrealRecoverySvc (no existing makefile)
+  Parsing headers for UnrealRecoverySvc
+    Running UnrealHeaderTool UnrealRecoverySvc "D:\ub\Engine\Intermediate\Build\Win64\UnrealRecoverySvc\Development\UnrealRecoverySvc.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ub\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UnrealRecoverySvc in 1.4929944 seconds
+  Building UnrealRecoverySvc...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 60 actions with 8 processes...
+    [1/60] Default.rc2
+    [2/60] BuildSettings.cpp
+    [3/60] Module.TraceLog.cpp
+    [4/60] SharedPCH.Core.ShadowErrors.cpp
+    [5/60] SharedPCH.Core.ShadowErrors.NoUndef.cpp
+    [6/60] SharedPCH.CoreUObject.ShadowErrors.cpp
+    [7/60] PCH.Core.cpp
+    [8/60] NetCommonModule.cpp
+    [9/60] SQLiteDatabase.cpp
+    [10/60] Module.ConcertTransport.gen.cpp
+    [11/60] PCH.CoreUObject.cpp
+    [12/60] SQLitePreparedStatement.cpp
+    [13/60] Module.Serialization.gen.cpp
+    [14/60] Module.Messaging.cpp
+    [15/60] Module.Cbor.cpp
+    [16/60] Module.ConcertTransport.cpp
+    [17/60] Module.ApplicationCore.cpp
+    [18/60] Module.Serialization.cpp
+    [19/60] Module.Json.cpp
+    [20/60] SQLiteEmbeddedPlatform.cpp
+    [21/60] SQLiteEmbedded.c
+    [22/60] UnrealRecoverySvc.cpp
+    [23/60] Module.Sockets.cpp
+    [24/60] Module.Concert.gen.cpp
+    [25/60] Module.CncrtSyncSvr.cpp
+    [26/60] Module.Networking.cpp
+    [27/60] Module.ConcertSyncCore.gen.cpp
+    [28/60] Module.Core.2_of_15.cpp
+    [29/60] Module.Concert.cpp
+    [30/60] Module.ConcertSyncCore.cpp
+    [31/60] Module.CoreUObject.9_of_9.cpp
+    [32/60] Module.UdpMessaging.cpp
+    [33/60] Module.Core.15_of_15.cpp
+    [34/60] Module.Core.9_of_15.cpp
+    [35/60] Module.Core.10_of_15.cpp
+    [36/60] Module.Core.6_of_15.cpp
+    [37/60] Module.Core.5_of_15.cpp
+    [38/60] Module.Core.14_of_15.cpp
+    [39/60] Module.Core.11_of_15.cpp
+    [40/60] Module.CoreUObject.gen.cpp
+    [41/60] Module.Core.3_of_15.cpp
+    [42/60] Module.CoreUObject.2_of_9.cpp
+    [43/60] Module.Core.1_of_15.cpp
+    [44/60] Module.Core.4_of_15.cpp
+    [45/60] Module.Core.13_of_15.cpp
+    [46/60] Module.CoreUObject.6_of_9.cpp
+    [47/60] Module.CoreUObject.5_of_9.cpp
+    [48/60] Module.UdpMessaging.gen.cpp
+    [49/60] SQLiteCore.cpp
+    [50/60] Module.Core.8_of_15.cpp
+    [51/60] Module.Projects.cpp
+    [52/60] Module.CoreUObject.8_of_9.cpp
+    [53/60] Module.Core.12_of_15.cpp
+    [54/60] Module.Core.7_of_15.cpp
+    [55/60] Module.CoreUObject.1_of_9.cpp
+    [56/60] Module.CoreUObject.7_of_9.cpp
+    [57/60] Module.CoreUObject.3_of_9.cpp
+    [58/60] Module.CoreUObject.4_of_9.cpp
+    [59/60] UnrealRecoverySvc.exe
+    [60/60] UnrealRecoverySvc.target
+  Total time in Parallel executor: 153.15 seconds
+  Total execution time: 2201.40 seconds

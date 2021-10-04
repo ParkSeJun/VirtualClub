@@ -1,0 +1,4 @@
+C:\VirtualClub\Intermediate\Build\Win64\VirtualClubServer\Development\SandboxFile\Definitions.SandboxFile.h
+D:\ub\Engine\Source\Runtime\SandboxFile\Public\IPlatformFileSandboxWrapper.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\ub\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileModule.h

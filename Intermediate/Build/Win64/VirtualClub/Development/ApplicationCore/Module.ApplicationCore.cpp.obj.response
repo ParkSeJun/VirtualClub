@@ -38,7 +38,7 @@
 /I Runtime\Analytics
 /I Runtime\Analytics\Analytics\Public
 /I Runtime\SynthBenchmark\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Renderer
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Renderer
 /I Runtime\Renderer\Public
 /I Runtime\ApplicationCore\Public
 /I Runtime\TraceLog\Public
@@ -51,12 +51,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Yu"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Fp"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
-"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ApplicationCore\Module.ApplicationCore.cpp"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ApplicationCore\Definitions.ApplicationCore.h"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ApplicationCore\Module.ApplicationCore.cpp.obj"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Yu"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ApplicationCore\Module.ApplicationCore.cpp"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ApplicationCore\Definitions.ApplicationCore.h"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ApplicationCore\Module.ApplicationCore.cpp.obj"
 /TP
 /GR-
 /W4

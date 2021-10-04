@@ -40,9 +40,9 @@
 /I ThirdParty\zlib\v1.2.8\include\Win64\VS2015
 /I ThirdParty\libPNG\libPNG-1.5.2
 /I ThirdParty\libJPG
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\ImageWrapper
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\ImageWrapper
 /I Runtime\ImageWrapper\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I ThirdParty\libjpeg-turbo\include
 /I ThirdParty\openexr\Deploy\OpenEXR-2.3.0
@@ -53,11 +53,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper
-/Yc"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.h"
-/Fp"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.h.pch"
-"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.cpp"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.h.obj"
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper
+/Yc"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.h"
+/Fp"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.h.pch"
+"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.cpp"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ImageWrapper\PCH.ImageWrapper.h.obj"
 /TP
 /GR-
 /W4

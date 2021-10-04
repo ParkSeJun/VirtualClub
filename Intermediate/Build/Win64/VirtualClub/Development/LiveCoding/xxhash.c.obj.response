@@ -35,11 +35,11 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Developer
 /I Developer\Settings\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\LiveCoding
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\LiveCoding
 /I Developer\Windows
 /I Developer\Windows\LiveCoding\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
@@ -78,14 +78,14 @@
 /DWITH_PUSH_MODEL=0
 /DWITH_CEF3=1
 /DWITH_LIVE_CODING=1
-/DUE_LIVE_CODING_ENGINE_DIR=\"D:\\ub\\Engine\"
-/DUE_LIVE_CODING_PROJECT=\"C:\\VirtualClub\\VirtualClub.uproject\"
+/DUE_LIVE_CODING_ENGINE_DIR=\"D:\\UnrealBuild\\Engine\"
+/DUE_LIVE_CODING_PROJECT=\"D:\\KPU\\VirtualClub\\VirtualClub.uproject\"
 /DUBT_MODULE_MANIFEST=\"VirtualClub.modules\"
 /DUBT_MODULE_MANIFEST_DEBUGGAME=\"VirtualClub-Win64-DebugGame.modules\"
 /DUBT_COMPILED_PLATFORM=Win64
 /DUBT_COMPILED_TARGET=Game
 /DUE_APP_NAME=\"VirtualClub\"
-/DUE_ENGINE_DIRECTORY=\"D:/ub/Engine/\"
+/DUE_ENGINE_DIRECTORY=\"../../../../UnrealBuild/Engine/\"
 /DNDIS_MINIPORT_MAJOR_VERSION=0
 /DWIN32=1
 /D_WIN32_WINNT=0x0601
@@ -110,7 +110,7 @@
 /DCOREUOBJECT_API=
 /DSETTINGS_API=
 /DLIVECODING_API=
-"D:\ub\Engine\Source\Developer\Windows\LiveCoding\Private\External\xxhash.c"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\LiveCoding\xxhash.c.obj"
+"D:\UnrealBuild\Engine\Source\Developer\Windows\LiveCoding\Private\External\xxhash.c"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\LiveCoding\xxhash.c.obj"
 /TC
 /W0

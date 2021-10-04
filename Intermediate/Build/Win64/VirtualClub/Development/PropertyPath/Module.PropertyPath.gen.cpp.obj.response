@@ -35,9 +35,9 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\PropertyPath
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
@@ -45,12 +45,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Yu"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Fp"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
-"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\PropertyPath\Module.PropertyPath.gen.cpp"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\PropertyPath\Definitions.PropertyPath.h"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\PropertyPath\Module.PropertyPath.gen.cpp.obj"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Yu"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Fp"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
+"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\PropertyPath\Module.PropertyPath.gen.cpp"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\PropertyPath\Definitions.PropertyPath.h"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\PropertyPath\Module.PropertyPath.gen.cpp.obj"
 /TP
 /GR-
 /W4

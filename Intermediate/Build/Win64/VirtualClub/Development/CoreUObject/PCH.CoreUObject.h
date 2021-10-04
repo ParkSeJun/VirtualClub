@@ -1,4 +1,4 @@
-// PCH for D:\ub\Engine\Source\Runtime\CoreUObject\Private\CoreUObjectPrivatePCH.h
+// PCH for D:\UnrealBuild\Engine\Source\Runtime\CoreUObject\Private\CoreUObjectPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -29,14 +29,14 @@
 #define WITH_PUSH_MODEL 0
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
-#define UE_LIVE_CODING_ENGINE_DIR "D:\\ub\\Engine"
-#define UE_LIVE_CODING_PROJECT "C:\\VirtualClub\\VirtualClub.uproject"
+#define UE_LIVE_CODING_ENGINE_DIR "D:\\UnrealBuild\\Engine"
+#define UE_LIVE_CODING_PROJECT "D:\\KPU\\VirtualClub\\VirtualClub.uproject"
 #define UBT_MODULE_MANIFEST "VirtualClub.modules"
 #define UBT_MODULE_MANIFEST_DEBUGGAME "VirtualClub-Win64-DebugGame.modules"
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "VirtualClub"
-#define UE_ENGINE_DIRECTORY "D:/ub/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../UnrealBuild/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601
@@ -64,4 +64,4 @@
 #define TARGETPLATFORM_API 
 #define UNIQUENETID_ESPMODE ESPMode::Fast
 #define COREUOBJECT_API 
-#include "D:/ub/Engine/Source/Runtime/CoreUObject/Private/CoreUObjectPrivatePCH.h"
+#include "D:/UnrealBuild/Engine/Source/Runtime/CoreUObject/Private/CoreUObjectPrivatePCH.h"

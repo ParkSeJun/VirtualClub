@@ -43,12 +43,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Yu"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Fp"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
-"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioMixerCore\Module.AudioMixerCore.cpp"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioMixerCore\Definitions.AudioMixerCore.h"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioMixerCore\Module.AudioMixerCore.cpp.obj"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Yu"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioMixerCore\Module.AudioMixerCore.cpp"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioMixerCore\Definitions.AudioMixerCore.h"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioMixerCore\Module.AudioMixerCore.cpp.obj"
 /TP
 /GR-
 /W4

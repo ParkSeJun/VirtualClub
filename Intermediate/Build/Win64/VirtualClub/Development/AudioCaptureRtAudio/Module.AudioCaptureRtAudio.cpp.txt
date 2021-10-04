@@ -1,17 +1,17 @@
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioCaptureRtAudio\Definitions.AudioCaptureRtAudio.h
-D:/ub/Engine/Source/Runtime/AudioCaptureImplementations/AudioCaptureRtAudio/Private/AudioCaptureRtAudio.cpp
-D:\ub\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\AudioCaptureRtAudio.h
-D:\ub\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCore.h
-D:\ub\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureDeviceInterface.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
-D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
-D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
-D:\ub\Engine\Source\Runtime\AudioMixerCore/Public/AudioDefines.h
-D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
-D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\AudioCaptureRtAudio\Definitions.AudioCaptureRtAudio.h
+D:/UnrealBuild/Engine/Source/Runtime/AudioCaptureImplementations/AudioCaptureRtAudio/Private/AudioCaptureRtAudio.cpp
+D:\UnrealBuild\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\AudioCaptureRtAudio.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCore.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureDeviceInterface.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+D:\UnrealBuild\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+D:\UnrealBuild\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixerCore/Public/AudioDefines.h
+D:\UnrealBuild\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+D:\UnrealBuild\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
@@ -108,8 +108,8 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
-D:\ub\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
@@ -161,11 +161,11 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
-D:/ub/Engine/Source/Runtime/AudioCaptureImplementations/AudioCaptureRtAudio/Private/AudioCaptureRtAudioModule.cpp
-D:\ub\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
-D:/ub/Engine/Source/Runtime/AudioCaptureImplementations/AudioCaptureRtAudio/Private/RtAudio.cpp
+D:/UnrealBuild/Engine/Source/Runtime/AudioCaptureImplementations/AudioCaptureRtAudio/Private/AudioCaptureRtAudioModule.cpp
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:/UnrealBuild/Engine/Source/Runtime/AudioCaptureImplementations/AudioCaptureRtAudio/Private/RtAudio.cpp
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsystem.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
@@ -189,7 +189,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\mmreg.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
-D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dsound.h
+D:\UnrealBuild\Engine\Source\ThirdParty\Windows\DirectX\include\dsound.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objbase.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
@@ -204,7 +204,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
-D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+D:\UnrealBuild\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
@@ -229,4 +229,4 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\msxml.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propidl.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h

@@ -1,5 +1,5 @@
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Analytics\Definitions.Analytics.h
-D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\Analytics.h
-D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsProviderConfigurationDelegate.h
-D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsBuildType.h
-D:\ub\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProviderModule.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Analytics\Definitions.Analytics.h
+D:\UnrealBuild\Engine\Source\Runtime\Analytics\Analytics\Public\Analytics.h
+D:\UnrealBuild\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsProviderConfigurationDelegate.h
+D:\UnrealBuild\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsBuildType.h
+D:\UnrealBuild\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProviderModule.h

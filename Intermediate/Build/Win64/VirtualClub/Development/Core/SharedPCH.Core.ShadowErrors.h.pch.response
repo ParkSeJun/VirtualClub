@@ -40,11 +40,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core
-/Yc"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Fp"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
-"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.cpp"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core
+/Yc"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.cpp"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4

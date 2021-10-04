@@ -1,4 +1,4 @@
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\MediaInfo\Definitions.MediaInfo.h
-D:\ub\Engine\Source\Runtime\MediaInfo\Public\IMediaInfoModule.h
-D:\ub\Engine\Source\Runtime\Media\Public\IMediaInfo.h
-D:\ub\Engine\Source\Runtime\Media\Public\IMediaModule.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\MediaInfo\Definitions.MediaInfo.h
+D:\UnrealBuild\Engine\Source\Runtime\MediaInfo\Public\IMediaInfoModule.h
+D:\UnrealBuild\Engine\Source\Runtime\Media\Public\IMediaInfo.h
+D:\UnrealBuild\Engine\Source\Runtime\Media\Public\IMediaModule.h

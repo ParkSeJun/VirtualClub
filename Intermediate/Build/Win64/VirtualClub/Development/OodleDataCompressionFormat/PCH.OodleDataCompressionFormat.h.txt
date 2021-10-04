@@ -1,8 +1,8 @@
-C:/VirtualClub/Intermediate/Build/Win64/VirtualClub/Development/OodleDataCompressionFormat/PCH.OodleDataCompressionFormat.h
-D:/ub/Engine/Plugins/Compression/OodleData/Source/Private/OodleDataCompressionFormatPCH.h
-D:\ub\Engine\Source\Runtime/Launch/Resources/Version.h
-D:\ub\Engine\Plugins\Compression\OodleData\Sdks\2.9.0\include\oodle2.h
-D:\ub\Engine\Plugins\Compression\OodleData\Sdks\2.9.0\include\oodle2base.h
+D:/KPU/VirtualClub/Intermediate/Build/Win64/VirtualClub/Development/OodleDataCompressionFormat/PCH.OodleDataCompressionFormat.h
+D:/UnrealBuild/Engine/Plugins/Compression/OodleData/Source/Private/OodleDataCompressionFormatPCH.h
+D:\UnrealBuild\Engine\Source\Runtime/Launch/Resources/Version.h
+D:\UnrealBuild\Engine\Plugins\Compression\OodleData\Sdks\2.9.0\include\oodle2.h
+D:\UnrealBuild\Engine\Plugins\Compression\OodleData\Sdks\2.9.0\include\oodle2base.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdint.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sal.h

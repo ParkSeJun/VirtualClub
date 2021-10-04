@@ -1,5 +1,5 @@
-D:\ub\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
-D:\ub\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
-D:\ub\Engine\Source\Runtime\AudioExtensions\Public\IAudioExtensionPlugin.h
-D:\ub\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldFormat.h
-D:\ub\Engine\Source\Runtime\AudioExtensions\Public\IAudioModulation.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioExtensions\Public\IAudioModulation.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldFormat.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioExtensions\Public\IAudioExtensionPlugin.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h

@@ -37,13 +37,13 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\NetCore
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\PacketHandler
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\PacketHandler
 /I Runtime\PacketHandlers\PacketHandler\Classes
 /I Runtime\PacketHandlers\PacketHandler\Public
 /I Runtime\Sockets\Public
@@ -54,12 +54,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Yu"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Fp"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
-"D:\ub\Engine\Source\Runtime\PacketHandlers\ReliabilityHandlerComponent\Private\ReliabilityHandlerComponent.cpp"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ReliableHComp\Definitions.ReliabilityHandlerComponent.h"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ReliableHComp\ReliabilityHandlerComponent.cpp.obj"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Yu"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+"D:\UnrealBuild\Engine\Source\Runtime\PacketHandlers\ReliabilityHandlerComponent\Private\ReliabilityHandlerComponent.cpp"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ReliableHComp\Definitions.ReliabilityHandlerComponent.h"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\ReliableHComp\ReliabilityHandlerComponent.cpp.obj"
 /TP
 /GR-
 /W4

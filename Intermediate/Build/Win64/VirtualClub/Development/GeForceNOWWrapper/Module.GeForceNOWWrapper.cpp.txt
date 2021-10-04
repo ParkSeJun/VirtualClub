@@ -1,10 +1,10 @@
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\GeForceNOWWrapper\Definitions.GeForceNOWWrapper.h
-D:/ub/Engine/Source/Runtime/NVidia/GeForceNOW/Private/GeForceNOWWrapper.cpp
-D:\ub\Engine\Source\Runtime\NVidia\GeForceNOW\Public\GeForceNOWWrapper.h
-D:\ub\Engine\Source\ThirdParty\NVIDIA\GeForceNOW\include\GfnRuntimeSdk_CAPI.h
-D:\ub\Engine\Source\ThirdParty\NVIDIA\GeForceNOW\include\GfnSdk.h
-D:\ub\Engine\Source\Runtime\NVidia\GeForceNOW\Private\GeForceNOWWrapperPrivate.h
-D:\ub\Engine\Source\ThirdParty\NVIDIA\GeForceNOW\include\GfnRuntimeSdk_Wrapper.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\GeForceNOWWrapper\Definitions.GeForceNOWWrapper.h
+D:/UnrealBuild/Engine/Source/Runtime/NVidia/GeForceNOW/Private/GeForceNOWWrapper.cpp
+D:\UnrealBuild\Engine\Source\Runtime\NVidia\GeForceNOW\Public\GeForceNOWWrapper.h
+D:\UnrealBuild\Engine\Source\ThirdParty\NVIDIA\GeForceNOW\include\GfnRuntimeSdk_CAPI.h
+D:\UnrealBuild\Engine\Source\ThirdParty\NVIDIA\GeForceNOW\include\GfnSdk.h
+D:\UnrealBuild\Engine\Source\Runtime\NVidia\GeForceNOW\Private\GeForceNOWWrapperPrivate.h
+D:\UnrealBuild\Engine\Source\ThirdParty\NVIDIA\GeForceNOW\include\GfnRuntimeSdk_Wrapper.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
@@ -209,5 +209,5 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winsvc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mcx.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-D:/ub/Engine/Source/Runtime/NVidia/GeForceNOW/Private/GeForceNOWWrapperModule.cpp
-D:\ub\Engine\Source\Runtime\NVidia\GeForceNOW\Public\IGeForceNOWWrapperModule.h
+D:/UnrealBuild/Engine/Source/Runtime/NVidia/GeForceNOW/Private/GeForceNOWWrapperModule.cpp
+D:\UnrealBuild\Engine\Source\Runtime\NVidia\GeForceNOW\Public\IGeForceNOWWrapperModule.h

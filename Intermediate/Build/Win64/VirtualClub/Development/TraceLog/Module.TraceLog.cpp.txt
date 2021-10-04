@@ -1,20 +1,20 @@
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\TraceLog\Definitions.h
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/BlockPool.cpp
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/Platform.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/Build.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\TraceLog\Definitions.h
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/BlockPool.cpp
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/Build.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sal.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\concurrencysal.h
-D:\ub\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
-D:\ub\Engine\Source\Runtime\TraceLog\Private\Trace\Platform.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Atomic.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Private\Trace\Platform.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Atomic.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals_core.h
@@ -70,22 +70,22 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mmintrin.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\zmmintrin.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Writer.inl
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/Channel.cpp
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
-D:\ub\Engine\Source\Runtime\Core\Public\CoreTypes.h
-D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
-D:\ub\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
-D:\ub\Engine\Source\Runtime\Core\Public\CoreFwd.h
-D:\ub\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
-D:\ub\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
-D:\ub\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Writer.inl
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/Channel.cpp
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\CoreTypes.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\CoreFwd.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\new
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\exception
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
@@ -103,14 +103,14 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdarg.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
-D:\ub\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\setjmp.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ammintrin.h
@@ -124,83 +124,83 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_u
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\driverspecs.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdv_driverspecs.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\strsafe.h
-D:\ub\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
-D:\ub\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
-D:\ub\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
-D:\ub\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
-D:\ub\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/Exec.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
-D:\ub\Engine\Source\Runtime\Core\Public\Traits/IntType.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
-D:\ub\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/Models.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/Identity.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
-D:\ub\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
-D:\ub\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/Models.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/Codec.cpp
-D:\ub\Engine\Source\Runtime\TraceLog\Private\Trace\LZ4/lz4.c.inl
-D:\ub\Engine\Source\Runtime\TraceLog\Private\Trace\LZ4\lz4.h
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/Control.cpp
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/CString.h
-D:\ub\Engine\Source\Runtime\Core\Public\Misc/Char.h
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/Codec.cpp
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Private\Trace\LZ4/lz4.c.inl
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Private\Trace\LZ4\lz4.h
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/Control.cpp
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/CString.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Misc/Char.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wctype.h
-D:\ub\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
-D:\ub\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/Detail/Windows/WindowsTrace.cpp
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/Detail/Windows/WindowsTrace.cpp
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
@@ -297,7 +297,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winsock2.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ws2def.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\inaddr.h
@@ -305,10 +305,10 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\qos.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ws2tcpip.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ws2ipdef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\in6addr.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/EventNode.cpp
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/Field.cpp
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/TlsBuffer.cpp
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/Trace.cpp
-D:/ub/Engine/Source/Runtime/TraceLog/Private/Trace/Writer.cpp
-D:\ub\Engine\Source\Runtime\TraceLog\Private\Trace\WriteBufferRedirect.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/EventNode.cpp
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/Field.cpp
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/TlsBuffer.cpp
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/Trace.cpp
+D:/UnrealBuild/Engine/Source/Runtime/TraceLog/Private/Trace/Writer.cpp
+D:\UnrealBuild\Engine\Source\Runtime\TraceLog\Private\Trace\WriteBufferRedirect.h

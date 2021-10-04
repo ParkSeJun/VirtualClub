@@ -42,9 +42,9 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-"D:\ub\Engine\Source\Runtime\BuildSettings\Private\BuildSettings.cpp"
-/FI"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\BuildSettings\Definitions.h"
-/Fo"C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\BuildSettings\BuildSettings.cpp.obj"
+"D:\UnrealBuild\Engine\Source\Runtime\BuildSettings\Private\BuildSettings.cpp"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\BuildSettings\Definitions.h"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\BuildSettings\BuildSettings.cpp.obj"
 /TP
 /GR-
 /W4

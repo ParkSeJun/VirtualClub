@@ -1,32 +1,32 @@
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Voice\Definitions.Voice.h
-D:/ub/Engine/Source/Runtime/Online/Voice/Private/VoiceCodecOpus.cpp
-D:\ub\Engine\Source\Runtime\Online\Voice\Private\VoiceCodecOpus.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\Interfaces/VoiceCodec.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
-D:\ub\Engine\Source\Runtime\Engine\Public\Net/VoiceConfig.h
-D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
-D:\ub\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\PlayerState.generated.h
-D:\ub\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
-D:\ub\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
-D:\ub\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
-D:\ub\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
-D:\ub\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
-D:\ub\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
-D:\ub\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
-D:\ub\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioMixer\QuartzSubsystem.generated.h
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioMixer\AudioMixerClockHandle.generated.h
-D:\ub\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\AudioComponent.generated.h
-D:\ub\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SoundWaveProcedural.generated.h
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioMixer\SynthComponent.generated.h
-C:\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\VoiceConfig.generated.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Private\VoicePrivate.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Development\Voice\Definitions.Voice.h
+D:/UnrealBuild/Engine/Source/Runtime/Online/Voice/Private/VoiceCodecOpus.cpp
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Private\VoiceCodecOpus.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\Interfaces/VoiceCodec.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
+D:\UnrealBuild\Engine\Source\Runtime\Engine\Public\Net/VoiceConfig.h
+D:\UnrealBuild\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+D:\UnrealBuild\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\PlayerState.generated.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+D:\UnrealBuild\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\UnrealBuild\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioMixer\QuartzSubsystem.generated.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+D:\UnrealBuild\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\AudioComponent.generated.h
+D:\UnrealBuild\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\SoundWaveProcedural.generated.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\AudioMixer\SynthComponent.generated.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\VirtualClub\Inc\Engine\VoiceConfig.generated.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Private\VoicePrivate.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
@@ -123,8 +123,8 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Audiopolicy.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
@@ -139,7 +139,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
-D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+D:\UnrealBuild\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ole2.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
@@ -198,24 +198,24 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\StructuredQueryCondition.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propkeydef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Functiondiscoverykeys_devpkey.h
-D:\ub\Engine\Source\ThirdParty\Windows\DirectX\include\dsound.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\VoiceModule.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\Interfaces/VoiceCapture.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
-D:\ub\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
-D:\ub\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus.h
-D:\ub\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus_types.h
-D:\ub\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus_defines.h
-D:/ub/Engine/Source/Runtime/Online/Voice/Private/VoiceModule.cpp
-D:/ub/Engine/Source/Runtime/Online/Voice/Private/Windows/VoiceCaptureWindows.cpp
-D:\ub\Engine\Source\Runtime\Online\Voice\Private\Windows\VoiceCaptureWindows.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
-D:\ub\Engine\Source\Runtime\Online\Voice\Private\VoiceDelayBuffer.h
-D:\ub\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
-D:\ub\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
-D:/ub/Engine/Source/Runtime/Online/Voice/Private/Windows/VoiceModuleWindows.cpp
-D:\ub\Engine\Source\Runtime\Online\Voice\Public\Voice.h
-D:\ub\Engine\Source\Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h
+D:\UnrealBuild\Engine\Source\ThirdParty\Windows\DirectX\include\dsound.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\VoiceModule.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\Interfaces/VoiceCapture.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
+D:\UnrealBuild\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+D:\UnrealBuild\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus.h
+D:\UnrealBuild\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus_types.h
+D:\UnrealBuild\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus_defines.h
+D:/UnrealBuild/Engine/Source/Runtime/Online/Voice/Private/VoiceModule.cpp
+D:/UnrealBuild/Engine/Source/Runtime/Online/Voice/Private/Windows/VoiceCaptureWindows.cpp
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Private\Windows\VoiceCaptureWindows.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\VoicePackage.h
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Private\VoiceDelayBuffer.h
+D:\UnrealBuild\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\UnrealBuild\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:/UnrealBuild/Engine/Source/Runtime/Online/Voice/Private/Windows/VoiceModuleWindows.cpp
+D:\UnrealBuild\Engine\Source\Runtime\Online\Voice\Public\Voice.h
+D:\UnrealBuild\Engine\Source\Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h

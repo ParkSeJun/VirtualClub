@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5740EB14-4790-B0B6-57A0-F8B8DC1212DA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VirtualClub",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

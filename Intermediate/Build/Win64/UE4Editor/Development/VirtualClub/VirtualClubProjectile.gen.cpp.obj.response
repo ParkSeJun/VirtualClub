@@ -32,16 +32,15 @@
 /wd4244
 /wd4838
 /I .
-/I D:\KPU\temp\VirtualClub\Intermediate\Build\Win64\UE4Editor\Inc\VirtualClub
-/I D:\KPU\temp\VirtualClub\Source
+/I D:\KPU\VirtualClub\Source\VirtualClub\Private
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -233,6 +232,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I D:\KPU\VirtualClub\Intermediate\Build\Win64\UE4Editor\Inc\VirtualClub
+/I D:\KPU\VirtualClub\Source
+/I D:\KPU\VirtualClub\Source\VirtualClub\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -266,12 +268,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\ub\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\ub\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\ub\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\KPU\temp\VirtualClub\Intermediate\Build\Win64\UE4Editor\Inc\VirtualClub\VirtualClubProjectile.gen.cpp"
-/FI"D:\KPU\temp\VirtualClub\Intermediate\Build\Win64\UE4Editor\Development\VirtualClub\Definitions.VirtualClub.h"
-/Fo"D:\KPU\temp\VirtualClub\Intermediate\Build\Win64\UE4Editor\Development\VirtualClub\VirtualClubProjectile.gen.cpp.obj"
+/FI"D:\UnrealBuild\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\UnrealBuild\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\UnrealBuild\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\KPU\VirtualClub\Intermediate\Build\Win64\UE4Editor\Inc\VirtualClub\VirtualClubProjectile.gen.cpp"
+/FI"D:\KPU\VirtualClub\Intermediate\Build\Win64\UE4Editor\Development\VirtualClub\Definitions.VirtualClub.h"
+/Fo"D:\KPU\VirtualClub\Intermediate\Build\Win64\UE4Editor\Development\VirtualClub\VirtualClubProjectile.gen.cpp.obj"
 /TP
 /GR-
 /W4

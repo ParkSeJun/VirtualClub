@@ -1,2 +1,2 @@
-D:\KPU\temp\VirtualClub\Intermediate\Build\Win64\UE4Editor\Development\VirtualClub\Definitions.VirtualClub.h
-D:\KPU\temp\VirtualClub\Source\VirtualClub\VirtualClub.h
+D:\KPU\VirtualClub\Intermediate\Build\Win64\UE4Editor\Development\VirtualClub\Definitions.VirtualClub.h
+D:\KPU\VirtualClub\Source\VirtualClub\VirtualClub.h

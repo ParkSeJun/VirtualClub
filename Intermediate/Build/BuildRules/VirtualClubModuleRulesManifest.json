@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"D:\\KPU\\VirtualClub\\Source\\VirtualClub\\VirtualClub.Build.cs",
-		"D:\\KPU\\VirtualClub\\Source\\VirtualClub.Target.cs",
-		"D:\\KPU\\VirtualClub\\Source\\VirtualClubEditor.Target.cs",
-		"D:\\KPU\\VirtualClub\\Source\\VirtualClubServer.Target.cs"
+		"C:\\Users\\anji0\\Documents\\GitHub\\VirtualClub\\Source\\VirtualClub\\VirtualClub.Build.cs",
+		"C:\\Users\\anji0\\Documents\\GitHub\\VirtualClub\\Source\\VirtualClub.Target.cs",
+		"C:\\Users\\anji0\\Documents\\GitHub\\VirtualClub\\Source\\VirtualClubEditor.Target.cs",
+		"C:\\Users\\anji0\\Documents\\GitHub\\VirtualClub\\Source\\VirtualClubServer.Target.cs"
 	],
 	"EngineVersion": "4.27.0"
 }
